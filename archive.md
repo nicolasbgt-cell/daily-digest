@@ -1,3 +1,35 @@
 # Archive
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
+
+## 2026-10-09
+
+- Margaret Hamilton est morte : [Hacker News](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007), [Le Figaro](https://www.lefigaro.fr/international/margaret-hamilton-pionniere-americaine-en-science-de-l-informatique-et-figure-du-programme-lunaire-apollo-est-morte-a-l-age-de-90-ans-20261008)
+- Claude Haiku 5.5 : [Hacker News](https://www.anthropic.com/claude-haiku-5-5)
+- Vivre hors réseau : Hundred Rabbits : [Hacker News](https://100r.ca/site/home.html)
+- Une alternative 100 fois plus rapide à homebrew : [Hacker News](https://github.com/zerobrewhq/zerobrew)
+- Docker Agent : [Hacker News](https://github.com/docker/docker-agent)
+- Un noyau minimal en Swift, exécuté dans QEMU : [Hacker News](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
+- Modèles de décision d1 multimodaux ouverts pour l'edge : [Hugging Face](https://huggingface.co/blog/LiquidAI/open-d1)
+- Endeavor Catalyst lève 320 M$ pour des fondateurs « ailleurs » : [TechCrunch](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/)
+- Microsoft sort de nouveaux PC IA à puce Nvidia avec Windows 11 remanié : [TechCrunch](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)
+- Muse de Meta arrive sur iPad un mois après ses débuts mobiles : [TechCrunch](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/)
+- ChatGPT for Teens retient les adolescents, même pendant les crises de santé mentale : [TechCrunch](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
+- ChatGPT devient beaucoup plus visuel avec une nouvelle interface : [TechCrunch](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
+- Meta déploie de nouveaux outils IA pour détecter les publicités menant à des contenus d'abus sexuels sur enfants : [TechCrunch](https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/)
+- Healthleap lève 38 M$ pour son IA qui signale les patients hospitaliers à surveiller : [TechCrunch](https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/)
+- Nouveaux paramètres de dépôt pour configurer l'accès aux pull requests : [Hacker News](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)
+- L'Inde rejette l'accusation de discrimination d'Elon Musk au sujet du lancement de Starlink : [TechCrunch](https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
+- La lente formation de logiciels durables : [Hacker News](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/)
+- OpenAI retire 3 articles de mathématiques : [Hacker News](https://github.com/openai/math/blob/main/history.md)
+- Russie : un centre de données de Yandex touché par une frappe de drone ukrainienne : [Le Figaro](https://www.lefigaro.fr/international/russie-un-centre-de-donnees-du-geant-de-la-tech-yandex-surnomme-le-google-russe-touche-par-une-frappe-de-drone-ukrainienne-20261008)
+- La beauté des menus DVD : [Hacker News](https://vale.rocks/posts/dvd-menus)
+- J'ai donné à Opus 5.5 un prompt et six heures pour visualiser Invisible Cities : [Hacker News](https://quesma.com/blog/invisible-cities-one-shot/)
+- Spotify se met sérieusement à vendre des logiciels d'entreprise : [TechCrunch](https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/)
+- Waymo obtient un prêt de 5 G$ de Blackstone et PIMCO pour financer l'expansion des robotaxis : [TechCrunch](https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/)
+- Le fondateur de 19 ans de Cal AI lève 10 M$ pour sa nouvelle startup IA : [TechCrunch](https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/)
+- Google lance un nouveau concurrent local-first de Granola : [TechCrunch](https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/)
+- Le chinois Manus lève plus de 500 M$ dans son premier tour depuis sa séparation de Meta : [TechCrunch](https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/)
+- Amazon dévoile de nouvelles tablettes Alexa avec Alexa\+ et accès au Google Play Store : [TechCrunch](https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/)
+- Uber et le chinois Pony.ai prévoient de lancer des robotaxis à Londres : [TechCrunch](https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/)
+- Vesta lève 30 M$ pour envoyer des essaims d'agents aux prêteurs hypothécaires : [TechCrunch](https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/)
