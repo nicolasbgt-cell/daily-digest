@@ -11,14 +11,13 @@ A Telegram bot running on a small cloud server collects articles, groups them by
 ## Contents
 
 - [`archive.md`](archive.md): one section per day, with the date, the topic titles and links to the original sources.
-- [`samples/`](samples/): two example editions (PDF) showing what the bot produces.
+- [`samples/`](samples/): one example edition (PDF) showing what the bot produces.
 
 ## See it working
 
 | Sample | What it shows |
 |---|---|
-| [`samples/edition-1.pdf`](samples/edition-1.pdf) | A short edition: cover page, table of contents, one article per topic with source list and dates. |
-| [`samples/edition-2.pdf`](samples/edition-2.pdf) | A second edition: topics from different sources, with a visible reading-status line for each source. |
+| [`samples/edition-example.pdf`](samples/edition-example.pdf) | A short edition: cover page, table of contents, one article per topic with source list and dates. |
 
 Each article is written in French, even when the sources are in English, and ends with the list of sources it was based on (read in full, partially read, or not read).
 
@@ -53,8 +52,8 @@ These checks reduce errors; they do not remove them. A subtle mistranslation or 
 - **Untrusted text stays data.** Headlines and page text are never treated as instructions for the model, and clickable links in the PDF are limited to `http(s)`.
 - **Server hardening.** Key-only SSH, firewall, automatic security updates, a dedicated unprivileged user, a read-only deploy key, and a hardened `systemd` service.
 - **Spending cap.** Every API call is logged; above a monthly ceiling the bot refuses to write and returns titles and links.
-- **Cost.** A five-topic edition costs about **US$0.04** in API calls. The whole project runs for roughly **€5 a month** of hosting plus a few dollars of API usage.
-- **70 automated tests**, none of which need the network or the API.
+- **Cost.** A five-topic edition costs about **US$0.01** in API calls. The whole project runs for roughly **€5 a month** of hosting plus under a dollar of API usage per month.
+- **More than 100 automated tests**, none of which need the network or the API.
 
 ## Stack
 
@@ -62,7 +61,7 @@ These checks reduce errors; they do not remove them. A subtle mistranslation or 
 - `cron` for scheduling
 - `systemd` to keep the bot running
 - Telegram Bot API
-- Anthropic API (Claude Haiku 4.5)
+- Anthropic API (Claude Haiku 5.5)
 - ReportLab for the PDF layout
 - Debian VPS (OVHcloud)
 
@@ -74,7 +73,7 @@ These checks reduce errors; they do not remove them. A subtle mistranslation or 
 
 ## Sources and copyright
 
-Articles belong to their publishers. The archive publishes **only topic titles and links to the original sources**. The two sample PDFs are demonstration editions: the text is written in my own words from the linked sources, which are credited in each article. If you are a rights holder and would like something removed, please open an issue and I will take it down.
+Articles belong to their publishers. The archive publishes **only topic titles and links to the original sources**. The sample PDF is a demonstration edition: the text is written in my own words from the linked sources, which are credited in each article. If you are a rights holder and would like something removed, please open an issue and I will take it down.
 
 ## Status
 
