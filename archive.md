@@ -2,6 +2,46 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-10
+
+- Deno joins Cloudflare : [Hacker News](https://deno.com/blog/cloudflare)
+- Our $445M Series D : [Hacker News](https://oxide.computer/blog/our-445m-series-d)
+- Court overturns killer's sentence after judge said he loved AI video of victim : [Hacker News](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
+- Surveillance company Flock cuts jobs as privacy backlash grows : [TechCrunch](https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/)
+- Xona's commercial GPS alternative is about to launch : [TechCrunch](https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/)
+- REA Reverse: reverse-engineer anything : [Hacker News](https://rea.tools/)
+- If AI is conscious, then we are making slaves : [Hacker News](https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi)
+- Telegram Desktop vulnerability allowed any user's file to be stolen : [Hacker News](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+- Eye of Sauron: long-range hidden spy camera detection : [Hacker News](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
+- Can autoregressive diffusion be used to generate market data? : [Hacker News](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
+- Compiling Rust to readable C with Eurydice : [Hacker News](https://lwn.net/Articles/1055211/)
+- Pointing AI at archives found a forgotten meteorite, lost rhinos, and more : [Hacker News](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
+- Next.js 16.4 : [Hacker News](https://nextjs.org/blog/next-16-4)
+- YouTuber says cops visited him after he built a Flock-style camera to track cops : [Hacker News](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+- Communication between the compiler, the build system, and beyond : [Hacker News](https://shrub.industries/words/problem.html)
+- Impactful scheduling for GPU clusters : [Hugging Face](https://huggingface.co/blog/allenai/impactful-scheduling)
+- Elon Musk intensifies attack on Ambani over Starlink India launch delay : [TechCrunch](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/)
+- Anthropic cannot reliably control its AI agents and cuts its internal evals off from the live internet : [TechCrunch](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
+- Long live the mechanical keyboard : [TechCrunch](https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/)
+- Anthropic AI model sent false homicide tip to Philadelphia police : [TechCrunch](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)
+- Batteries are now cheaper than natural gas turbines used at many data centers : [TechCrunch](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/)
+- Danu Robotics' fight to build a better recycling robot : [TechCrunch](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
+- We cannot help treating AI like a human. But should we? : [TechCrunch](https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/)
+- Tesla renames "Full Self-Driving" to "Tesla Assisted Driving" in Europe : [TechCrunch](https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/)
+- Remember Orkut? Its founder wants to bring it back : [TechCrunch](https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/)
+- a16z's Olivia Moore on the state of consumer AI : [TechCrunch](https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/)
+- Automattic interim CFO resigns weeks after boardroom shakeup : [TechCrunch](https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/)
+- How to enter VR without wearing a headset : [Hacker News](https://www.kyushu-u.ac.jp/en/researches/view/414/)
+- "123456" password used in Danish CPR data breach : [Hacker News](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
+- Talorys: a self-hosted personal AI agent on Cloudflare's free tier : [Hacker News](https://github.com/rociiu/talorys)
+- Apple/macOS silently removed from official Unix registry : [Hacker News](https://www.opengroup.org//openbrand/register/)
+- WSL3 is about 5-60% faster than WSL2 depending on the workload : [Hacker News](https://tonym.us/wsl2-vs-wsl3-benchmarks.html)
+- Noto means "no tofu": fixing dotted circles in Myanmar text : [Hacker News](https://www.datocms.com/blog/handling-less-common-scripts)
+- Bitwarden dual license model : [Hacker News](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
+- C for Rust programmers : [Hacker News](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
+- Mxc: Microsoft Execution Containers version 1.0.0 : [Hacker News](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
+- Here are the top AI agents that can live in your text messages : [TechCrunch](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)
+
 ## 2026-10-09
 
 - Show HN : Quake porté en Rust sûr, jouable dans le navigateur : [Hacker News](https://quake-srp.pages.dev/)
