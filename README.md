@@ -2,6 +2,8 @@
 
 A personal tech, AI and dev news digest that writes itself every day, and a public archive of what it covered.
 
+> **Note on language:** the bot writes its articles in French by choice, because its reader is French. Topic titles in the archive are published in English for international readers; the earliest archive entries, written before this change, have French titles.
+
 A Telegram bot running on a small cloud server collects articles, groups them by topic, lets me choose what I want to read, and writes the chosen topics as a French-language PDF "newspaper". This repository is the **public showcase and archive**: sample output, plus a daily log of the topics collected, with links to their original sources.
 
 > The bot's source code lives in a separate private repository. This repository contains only the archive, the samples and this description.
@@ -11,15 +13,16 @@ A Telegram bot running on a small cloud server collects articles, groups them by
 ## Contents
 
 - [`archive.md`](archive.md): one section per day, with the date, the topic titles and links to the original sources.
-- [`samples/`](samples/): one example edition (PDF) showing what the bot produces.
+- [`samples/`](samples/): two example editions (PDF), in English translation, showing what the bot produces.
 
 ## See it working
 
 | Sample | What it shows |
 |---|---|
-| [`samples/edition-example.pdf`](samples/edition-example.pdf) | A short edition: cover page, table of contents, one article per topic with source list and dates. |
+| [`samples/edition-2026-10-08-evening-EN.pdf`](samples/edition-2026-10-08-evening-EN.pdf) | Thursday 8 October 2026: five topics, with cover page, table of contents, one article per topic and source list with dates. |
+| [`samples/edition-2026-10-09-evening-EN.pdf`](samples/edition-2026-10-09-evening-EN.pdf) | Friday 9 October 2026: five topics, including a reading-status line for each source and "to check in the sources" flags. |
 
-Each article is written in French, even when the sources are in English, and ends with the list of sources it was based on (read in full, partially read, or not read).
+The bot writes its editions in French. These two samples are English translations of real editions, with the same layout, so that international readers can follow them.
 
 ## How it works
 
@@ -73,7 +76,7 @@ These checks reduce errors; they do not remove them. A subtle mistranslation or 
 
 ## Sources and copyright
 
-Articles belong to their publishers. The archive publishes **only topic titles and links to the original sources**. The sample PDF is a demonstration edition: the text is written in my own words from the linked sources, which are credited in each article. If you are a rights holder and would like something removed, please open an issue and I will take it down.
+Articles belong to their publishers. The archive publishes **only topic titles and links to the original sources**. The two sample PDFs are demonstration editions (translated from French): the text is written in my own words from the linked sources, which are credited in each article. If you are a rights holder and would like something removed, please open an issue and I will take it down.
 
 ## Status
 
