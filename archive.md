@@ -2,6 +2,34 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-11
+
+- Build your own decision model : [Hacker News](https://nishtahir.com/build-your-own-decision-model/)
+- 2D Vehicles : [Hacker News](https://patkerr.co.uk/2d-vehicles/)
+- PSPi 6 – Raspberry Pi in a PSP : [Hacker News](https://github.com/othermod/PSPi-Version-6)
+- The Lightbulb Computer : [Hacker News](https://lightbulbcomputer.com/)
+- How big is a Git commit? : [Hacker News](https://ratfactor.com/cards/git-commit-size)
+- Nix wrote half of my debugger : [Hacker News](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
+- Retrofitting language models to operate over bytes : [Hacker News](https://www.nature.com/articles/s41586-026-11111-4)
+- Why DuckDB 2.0 is faster : [Hacker News](https://motherduck.com/blog/why-duckdb-20-is-faster/)
+- Knuth reward check : [Hacker News](https://www.thomas-huehn.com/knuth-reward-check/)
+- Apple discloses deal to hire team and license tech from personalized podcast startup Huxe : [TechCrunch](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)
+- Petra Power looks to modernize energy for data centers and defense vehicles : [TechCrunch](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/)
+- Yandex cloud hit by drone attack : [Le Figaro](https://www.lefigaro.fr/international/russie-le-cloud-du-geant-de-la-tech-yandex-affecte-par-une-attaque-de-drone-20261011)
+- LineageOS 24.0 : [Hacker News](https://lineageos.org/Changelog-32/)
+- Five months treating bugs like patients and coding agents like a medical team : [Hacker News](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)
+- IRCv3 : [Hacker News](https://ircv3.net/)
+- Rat's Register Allocator : [Hacker News](https://hexrat.cc/pages/blog/2026_10_07)
+- AI is creating a 'human premium' for art created by people : [Hacker News](https://www.bbc.com/news/articles/c5vgjm3gk7rzo)
+- "Robot" Is a Social Construct: Why Your Dishwasher Is Not a Robot : [Hacker News](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
+- "I cried": a despairing mathematician faces artificial intelligence : [Le Figaro](https://www.lefigaro.fr/sciences/j-ai-pleure-un-mathematicien-desespere-face-a-l-intelligence-artificielle-qui-a-reduit-son-domaine-de-recherche-a-neant-20261011)
+- I paid people to try and follow my README : [Hacker News](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
+- The tilde in your PATH may not be your HOME : [Hacker News](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
+- Valen's Memory Safety: A New Kind of Borrow Checking : [Hacker News](https://verdagon.dev/blog/valen-group-borrowing)
+- Plumbers, chains, and famous painters: The history of the pipe operator in R : [Hacker News](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
+- Show HN: BetterWispr – Free, open-source dictation for Mac : [Hacker News](https://betterwispr.com/)
+- These execs think voice AI hasn't reached its ChatGPT moment yet : [TechCrunch](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)
+
 ## 2026-10-10
 
 - Deno joins Cloudflare : [Hacker News](https://deno.com/blog/cloudflare)
