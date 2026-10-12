@@ -2,6 +2,33 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-12
+
+- Type-safe HTML templating in Zig : [Hacker News](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+- Fingerprints are the new cookies : [Hacker News](https://royfish.dev/fingerprints-are-the-new-cookies)
+- Will Linux phones become a viable alternative to the Android/iOS duopoly? : [Hacker News](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
+- Doory – Open-Source Canva : [Hacker News](https://github.com/shaongitbd/doory)
+- Calculus with Julia : [Hacker News](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+- No portable way to detect string-to-float conversion errors in standard C : [Hacker News](https://sebsite.pw/w/20261009-strtod.html)
+- The gap in shared understanding of LLM capability is widening : [Hacker News](https://twitter.com/karpathy/status/2109361546505966046)
+- Google is illegally cutting forest to build data centers : [Hacker News](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
+- Illustration Beyond Proof : [Hacker News](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/)
+- Local Indexing to reduce tool calling and token usage : [Hacker News](https://tedhaley.ca/pensieve/)
+- Can the AI industry persuade data center opponents by getting rid of NDAs? : [TechCrunch](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
+- TechCrunch Mobility: A roadblock clears for self-driving trucks : [TechCrunch](https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/)
+- Postgres isn't slow, your storage is : [Hacker News](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
+- QGIS bans AI assisted contributions : [Hacker News](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
+- Show HN: PS2 games statically recompiled to WebAssembly : [Hacker News](https://github.com/snuri00/ps2-web-recomp)
+- Ledger confirms hidden chip in crypto wallet amid $92M theft claims : [Hacker News](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
+- Cyberattack hits refrigeration systems of Intermarché and Coopérative U supermarkets : [Le Figaro](https://www.lefigaro.fr/societes/une-cyberattaque-a-touche-les-infrastructures-frigorifiques-de-centaines-de-supermarches-cooperative-u-et-intermarche-20261012)
+- Why aren't AI companies being charged for hacking? : [Hacker News](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
+- "Just Ask Claude" Is a Rare and Valuable Skill : [Hacker News](https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable)
+- Incident with Actions, Pull Requests and Issues : [Hacker News](https://www.githubstatus.com/incidents/93njd414rpbx)
+- Choreographic Programming in Rust : [Hacker News](https://github.com/hibanaworks/hibana)
+- Bag of Decisions Reranker : [Hacker News](https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html)
+- Smart ring maker Ultrahuman to roll out biological-age model across UAE : [TechCrunch](https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/)
+- Former Plaud exec raises $26M for AI app that listens to you in the background : [TechCrunch](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/)
+
 ## 2026-10-11
 
 - Build your own decision model : [Hacker News](https://nishtahir.com/build-your-own-decision-model/)
