@@ -6,7 +6,7 @@ A personal tech, AI and dev news digest that writes itself every day, and a publ
 
 A Telegram bot running on a small cloud server collects articles, groups them by topic, lets me choose what I want to read, and writes the chosen topics as a French-language PDF "newspaper". This repository is the **public showcase and archive**: sample output, plus a daily log of the topics collected, with links to their original sources.
 
-> The bot's source code lives in a separate private repository. This repository contains only the archive, the samples and this description.
+> The Python files at the root are a **demo of the code**, published so the architecture can be read. The production deployment (server configuration, secrets, scheduling, archive publishing) is not part of this repository.
 
 ---
 
@@ -14,6 +14,8 @@ A Telegram bot running on a small cloud server collects articles, groups them by
 
 - [`archive.md`](archive.md): one section per day, with the date, the topic titles and links to the original sources.
 - [`samples/`](samples/): two example editions (PDF), in English translation, showing what the bot produces.
+- [`collecte.py`](collecte.py), [`regrouper.py`](regrouper.py), [`bot.py`](bot.py), [`redaction.py`](redaction.py), [`budget.py`](budget.py): the demo source code (see [Architecture](#architecture)).
+- [`requirements.txt`](requirements.txt): pinned dependencies.
 
 ## See it working
 
@@ -31,6 +33,41 @@ The bot writes its editions in French. These two samples are English translation
 3. **Choose**: at 5:55pm, the Telegram bot sends me the list of topics. I tick up to five.
 4. **Write**: for each chosen topic, the program reads the source pages and the model writes an original article in French. The result is laid out as an A5 PDF and sent back to me, with its estimated cost.
 5. **Archive**: the day's topics and their source links are added to [`archive.md`](archive.md).
+
+## Architecture
+
+The program is a pipeline of small scripts that communicate **only through JSON files**. Each step can run, fail and be re-run on its own.
+
+```
+ RSS feeds ──► collecte.py ──► articles.json
+                                    │
+                                    ▼
+                             regrouper.py ──► sujets.json  (+ ignores.txt, rejets.log)
+                              │  2 LLM calls + readability filter
+                              ▼
+                           bot.py  (Telegram, long-running)
+                              │  /liste → I tick up to 5 topics → "Validate"
+                              ▼
+                          redaction.py ──► editions/edition-YYYY-MM-DD-{matin|soir}.pdf
+                              │                       │
+                              └──► budget.py ◄────────┘   (usage.log, monthly total)
+```
+
+| File | Role | Reads | Writes |
+|---|---|---|---|
+| [`collecte.py`](collecte.py) | Reads the RSS feeds (Hacker News, Hugging Face, TechCrunch, Le Monde, franceinfo, Libération, Le Figaro), keeps `http(s)` links only, skips links already seen, purges articles older than 24 h and links older than 7 days. Control characters from the web are stripped before display. | feeds | `articles.json`, `liens_vus.json` |
+| [`regrouper.py`](regrouper.py) | **Call 1:** filters out everything that is not tech, AI or software. **Call 2:** merges articles about the same event into one topic, with a French and an English title. Model answers are validated against a JSON schema; links are re-attached from `articles.json`, never taken from the model. Then a readability filter downloads each candidate page (parallel, cached) and drops paywalled or unreadable ones. Topics are ranked by number of distinct sources. | `articles.json` | `sujets.json`, `ignores.txt`, `rejets.log` |
+| [`bot.py`](bot.py) | Telegram bot (`python-telegram-bot`). Sends the topic list automatically at 5:55pm (`/liste` on demand), shows tick-box buttons (max 5), then calls `redaction.py` on "Validate" and sends the PDF back with its cost. `/cout` gives the month's spending. Answers one user ID only; secrets are masked in logs. | `sujets.json` | Telegram messages |
+| [`redaction.py`](redaction.py) | For each chosen topic: fetches the sources safely (no private addresses, limited redirects, size and time caps), asks the model for a short article, checks it, and lays out an A5 PDF with ReportLab: cover, table of contents, articles, sources with dates. Contains the anti-invention checks (number verification, "not enough facts" abstention, partial-read labels). | `articles.json`, source pages | `editions/*.pdf` (last 14 kept) |
+| [`budget.py`](budget.py) | Computes the cost of each API call from token counts and a price table (unknown model → highest price, for safety), appends it to `usage.log` and totals the month. Used by the bot to enforce the spending cap. | `usage.log` | `usage.log` |
+
+### Design choices
+
+- **Files as interfaces.** No database, no queue: JSON files between steps. Easy to inspect, easy to replay one stage.
+- **Cheap model, strict inputs.** Claude Haiku 5.5 does the filtering, grouping and writing; the code does everything that can be checked deterministically (links, dates, numbers, paywalls, budget).
+- **Structured outputs.** Model answers are constrained by a JSON schema and re-validated in code before use; an invalid answer drops the topic rather than the edition.
+- **Fail small.** Timeouts at every level (network, page, edition), atomic PDF write (`.tmp` then rename), and a topic that fails is reported with its reason while the rest continue.
+- **Scheduling lives outside the code.** `cron` runs `collecte.py` and `regrouper.py`; `systemd` keeps `bot.py` running.
 
 ## The rule: it never invents
 
