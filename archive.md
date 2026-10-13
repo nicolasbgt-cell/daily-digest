@@ -2,6 +2,43 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-13
+
+- Apple pushes further into the smart home with HomeView : [Hacker News](https://www.apple.com/apple-homeview/), [TechCrunch](https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/)
+- Apple launches a new Apple TV 4K : [Hacker News](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/), [TechCrunch](https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/)
+- Cyberattack on supermarket fridges in Europe : [Hacker News](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident), [Le Figaro](https://www.lefigaro.fr/societes/piratage-des-systemes-frigorifiques-de-supermarches-le-patron-de-cooperative-u-denonce-une-attaque-gravissime-20261013)
+- Character.ai files for Chapter 11 bankruptcy : [Hacker News](https://blog.character.ai/an-update-on-character-ai/), [TechCrunch](https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/)
+- Thélyson Orélien admits plagiarism but denies using AI for his novel C'était ça ou mourir : [Le Figaro](https://www.lefigaro.fr/livres/l-ecrivain-thelyson-orelien-reconnait-ses-plagiats-mais-pas-le-recours-a-l-ia-dans-l-ecriture-de-c-etait-ca-ou-mourir-20261013), [Le Figaro](https://www.lefigaro.fr/livres/c-est-une-calomnie-et-une-heresie-la-defense-de-thelyson-orelien-qui-jure-avoir-ecrit-c-etait-ca-ou-mourir-sans-ia-20261013)
+- Meta launches its first frontier model, Muse Wonder : [TechCrunch](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
+- AI models can provably hide arbitrary capabilities : [Hacker News](https://arxiv.org/abs/2610.13928)
+- A modern web app in C : [Hacker News](https://prophitt.me/writing/a-modern-web-app-in-c)
+- Who is vfmaddrnd231pd? : [Hacker News](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+- Janas: run LLMs larger than RAM by streaming experts from SSD : [Hacker News](https://github.com/prabanta-dev/janas)
+- Making big downloads resumable in Firefox : [Hacker News](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html)
+- Auto Research: integer multiplication below n log n : [Hacker News](https://app.getsupers.com/auto-research)
+- Turn a WiFi 7 router into a 320 Msps software-defined radio receiver : [Hacker News](https://github.com/h0m3us3r/w1700k-sdr)
+- AI is a tool, and using it well takes skill : [Hacker News](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+- Launch: Agent37, low-cost agent sandboxes : [Hacker News](https://news.ycombinator.com/item?id=50059096)
+- Phreak.ing: Internet phone switch : [Hacker News](https://phreak.ing/)
+- WindBorne wins a hefty US Air Force contract for its balloon data : [TechCrunch](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
+- Honeyjar offers AI tools to improve PR and comms : [TechCrunch](https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/)
+- Microsoft president says UK is best placed to drive AI regulation : [TechCrunch](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/)
+- This AI startup says it can generate permit-ready blueprints in minutes : [TechCrunch](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)
+- Fitbit Edge is Google's middle ground between Fitbit Air and Pixel Watch : [TechCrunch](https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/)
+- Where is all the new, good software? : [Hacker News](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
+- Document review with Unsiloed and TypeSafe Jev : [Hacker News](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
+- A look at the math OpenAI claims computes faster Fourier transforms : [Hacker News](https://www.argmin.net/p/faster-fourier-transforms)
+- 11-year-old unsoundness bugs found in Rust borrow checker : [Hacker News](https://github.com/rust-lang/rust/issues/164250)
+- An hour of audio transcribed in about 13s on MacBook Air : [Hacker News](https://eg2.haku.sh/)
+- Crypto thieves sell hardware wallets with secret eSIM : [Hacker News](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
+- A dynamic and distributed virtual GPU cloud built on idle Apple Silicon devices : [Hacker News](https://machinelearning.apple.com/research/distributed-gpu-cloud)
+- Mozilla introduces Firefox Enterprise : [Hacker News](https://www.firefox.com/en-US/enterprise/)
+- TechCrunch Disrupt 2026: Day 1 : [TechCrunch](https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/)
+- SpaceXSI bundles X Premium, Grok and Cursor into one subscription : [TechCrunch](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)
+- Apple refreshes its HomePod mini with a new chip and $149 price tag : [TechCrunch](https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/)
+- Apple's new smart home lineup includes a smart lock, thermostat and video doorbells : [TechCrunch](https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/)
+- Amex introduces a framework to prevent AI agents from making unauthorized purchases : [TechCrunch](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/)
+
 ## 2026-10-12
 
 - Type-safe HTML templating in Zig : [Hacker News](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
