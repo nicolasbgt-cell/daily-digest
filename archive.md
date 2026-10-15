@@ -2,6 +2,41 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-15
+
+- Online ads are used to install zero-click spyware : [TechCrunch](https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/), [Hacker News](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say), [Hacker News](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
+- OpenCode 2.0 : [Hacker News](https://anoma.ly/notes/opencode-2-0/)
+- LFM2.5-24B-A2B: built for fast on-device agents : [Hacker News](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- The Double Headed Stack Allocator : [Hacker News](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+- Your C is not standard C : [Hacker News](https://sebsite.pw/w/20261012-notstdc.html)
+- Better HTTP/1 connection reuse in Go 1.27 : [Hacker News](https://go.dev/blog/http-connection-reuse)
+- It took me nine years to hack my Xbox 360 : [Hacker News](https://kennedn.com/blog/posts/glitching/)
+- Jev 1.14.0 release with experimental features for dreamers : [Hacker News](https://typesafe.ai/blog/jev-1-14)
+- HiRO-ACEv2: simulating extreme weather at 3 km resolution for a fraction of the cost : [Hugging Face](https://huggingface.co/blog/allenai/hiro-acev2)
+- Figma announces new features to define how agents work on its platform : [TechCrunch](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)
+- Ricursive Intelligence is betting on AI-designed chips to solve the compute crisis : [TechCrunch](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)
+- Flock CEO defends surveillance technology amid national backlash: 'We shouldn't pause progress' : [TechCrunch](https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/)
+- Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026 : [TechCrunch](https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/)
+- Gudea uses AI to help organizations prevent social media crises before they erupt : [TechCrunch](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/)
+- CedarDB wants one database to handle transactions and analytics as AI agents raise the stakes : [TechCrunch](https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/)
+- Flock CEO says its microphones detect 'just gunshots' — its website says different : [TechCrunch](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/)
+- Colossal Biosciences announces new AI platform to accelerate de-extinction efforts : [TechCrunch](https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/)
+- Flock CEO: We haven't 'fired' any police departments as customers : [TechCrunch](https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/)
+- Hiyd is a health tracker that attaches to the watch you already wear : [TechCrunch](https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/)
+- Wanted to download an ISO, ended up writing a kernel exploit : [Hacker News](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+- Aidlc: adaptive workflow steering rules for AI coding agents : [Hacker News](https://github.com/awslabs/aidlc-workflows)
+- The first social network: in rural Argentina residents send messages via AM radio : [Hacker News](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)
+- Show HN: Ito – build terminal UIs in Lua : [Hacker News](https://uji.sh/ito/)
+- Libreboot 26.10 'Ominous Olive' released with UEFI, Chromebook support : [Hacker News](https://libreboot.org/news/libreboot2610.html)
+- Wayland desktop for Linux with skeuomorphic design : [Hacker News](https://github.com/fyzugx/DEsk)
+- C\+\+26 Contracts: introduction to preconditions and postconditions : [Hacker News](https://www.cppstories.com/2026/cpp26_contracts/)
+- Prompt injection in HTTP headers: what 217M web responses show : [Hacker News](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/)
+- Apertus 1.5 release notes : [Hugging Face](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)
+- Ramp reaches $60B valuation as it pushes deeper into AI : [TechCrunch](https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/)
+- Google's Universal Cart shopping tool launches in the US : [TechCrunch](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/)
+- TechCrunch Disrupt 2026: last day : [TechCrunch](https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/)
+- Amazon's Bee launches two new personal AI devices, starting at $75 : [TechCrunch](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/)
+
 ## 2026-10-14
 
 - Apple unveils HomeView : [Hacker News](https://www.apple.com/apple-homeview/), [TechCrunch](https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/)
