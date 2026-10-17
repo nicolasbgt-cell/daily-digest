@@ -2,6 +2,32 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-17
+
+- DeepSeek v4.1 Flash 1017 : [Hacker News](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017), [Hacker News](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+- Ultramarine 1 Flash : [Hacker News](https://www.paperinstruments.com/ultramarine)
+- Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console : [Hacker News](https://github.com/cobanov/PS5LM)
+- Claude reveals the origins of ECDSA curves : [Hacker News](https://www.anthropic.com/research/ecdsa-curve-origins)
+- You could have invented transformers from memory : [Hacker News](https://alexwang.ai/posts/associative-memory/)
+- FLUX 3 Image Klein : [Hacker News](https://bfl.ai/blog/flux-3-image-klein)
+- eBay restricts listings of radio equipment, but exempts ham-band-only gear : [Hacker News](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
+- Apple ML Research: Muse Spark Open with MLX on Mac Studio : [Hacker News](https://machinelearning.apple.com/research/mlx-distributed-inference)
+- A story of WiFi secrets, UART lockdowns and a damaged flash memory chip : [Hacker News](https://adepts.of0x.cc/eufy-homestation2-firmware/)
+- Designing more efficient quantum circuits with Claude : [Hacker News](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
+- JPEG XL vs. AVIF for the web : [Hacker News](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
+- Monte-Carlo simulations : [Hacker News](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
+- Replit no longer works with Anthropic, according to its CEO : [TechCrunch](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
+- India becomes the latest country to report rogue AI agent activity : [TechCrunch](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
+- Waymo's robotaxis are headed to Canada : [TechCrunch](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/)
+- Elorian's first AI model wants to reason with images, not just about them : [TechCrunch](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)
+- Jev is Vercel's fastest-adopted AI model ever : [TechCrunch](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)
+- Intuitive concurrent programming in any language : [Hacker News](https://www.lf-lang.org/)
+- 0/1 Knapsack Problem in PyTorch : [Hacker News](https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg)
+- I built the RealWorld app in Lean 4 : [Hacker News](https://leangineer.com/blog/realworld-in-lean/)
+- We still use paper : [Hacker News](https://humanpro.co/articles/we-still-use-paper/)
+- Recipes are moving from Maven Central to the Code Genome Project : [Hacker News](https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module)
+- The First Candid : [Hacker News](https://www.newyorker.com/magazine/2026/10/19/the-first-candid)
+
 ## 2026-10-16
 
 - Meta launches Muse Spark Open, an open-weight model : [Hacker News](https://research.meta.ai/blog/muse-spark-open), [Hugging Face](https://huggingface.co/blog/meta-muse-spark-open), [TechCrunch](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)
