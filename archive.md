@@ -2,6 +2,22 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-18
+
+- Anthropic says its workforce has become less junior and spends more time in meetings : [TechCrunch](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/), [Hacker News](https://www.anthropic.com/research/employment-at-anthropic)
+- Sphinx, a quiz that tests AI-generated code before shipping : [Hacker News](https://sphinx-six-theta.vercel.app/)
+- Lean now ships with verified kernels : [Hacker News](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
+- Pele: Mermaid diagrams as themeable SVG : [Hacker News](https://pele.run/)
+- Commodore 64 hardware simulator: break chips and pins, see the results : [Hacker News](https://github.com/antirez/c64-hw-simulator)
+- Meta changes its new terms on scraping : [Hacker News](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
+- Replit makes OpenAI its default over Anthropic, CEO says : [TechCrunch](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
+- DeepSeek search and fetch at $0.75 per 1,000 successful requests : [Hacker News](https://api-docs.deepseek.com/guides/search/)
+- Fun extending the C preprocessor : [Hacker News](https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html)
+- Teal: a statically typed dialect of Lua : [Hacker News](https://teal-language.org/)
+- Parser combinators : [Hacker News](https://t3.at/blog/2026-10-17-parser-combinators/)
+- RepRapMicron : [Hacker News](https://github.com/VikOlliver/RepRapMicron/wiki)
+- Open MicroManipulator: a sub-micrometer 3D motion control platform : [Hacker News](https://github.com/0x23/MicroManipulatorStepper)
+
 ## 2026-10-17
 
 - DeepSeek v4.1 Flash 1017 : [Hacker News](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017), [Hacker News](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
