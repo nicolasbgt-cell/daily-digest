@@ -2,6 +2,30 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-19
+
+- Hybrid Reasoning Agents: LLM agents that think in latent space and act through text : [Hacker News](https://arxiv.org/abs/2610.18861)
+- Verisign .com Domain Name Registry Consumer Class Action : [Hacker News](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
+- William Gibson and the trademarking of cyberspace : [Hacker News](https://colo.to/cyberspace.html)
+- Superlite: A Faster Alternative to Superpowers : [Hacker News](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
+- Someone behind the software : [Hacker News](https://karrisaarinen.com/posts/someone-behind-the-software/)
+- Laptop Based on 6502 CPU : [Hacker News](https://www.maddox.pro/?p=448)
+- DeepSeek V4.1 Flash 1017 \(Max\) : [Hacker News](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
+- Free Pascal compiler now supports dynamic packages : [Hacker News](https://www.getlazarus.org/dynamic/)
+- WhatsApp MCP running free on Cloudflare : [Hacker News](https://github.com/finereli/whatsapp-mcp)
+- The DNS Museum : [Hacker News](https://dns.museum)
+- How to Train Your Robot : [Hacker News](https://www.construction-physics.com/p/how-to-train-your-robot)
+- If you don't run your own LLM proxy, how do you know what's going on? : [Hacker News](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
+- Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling : [Hacker News](https://crystl.dev/guides/tmux-for-ai-agents/)
+- Flatpak – An Insecurity Nightmare : [Hacker News](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
+- Timestral: Mistral releases time-series foundation models : [Hacker News](https://mistral.ai/news/timestral/)
+- Let's Encrypt is adding two additional remote perspectives for domain validation : [Hacker News](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
+- Wine Ported to OpenBSD : [Hacker News](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- KiviDB, a faster Redis-compatible memory database and vector cache : [Hacker News](https://github.com/kividbio/kividb)
+- Qwen3-4B with the AI writing tics trained out : [Hacker News](https://100toolkit.com/blog/deslop-model/)
+- Beyond the Glass : [Hacker News](https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/)
+- Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review : [TechCrunch](https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/)
+
 ## 2026-10-18
 
 - Anthropic says its workforce has become less junior and spends more time in meetings : [TechCrunch](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/), [Hacker News](https://www.anthropic.com/research/employment-at-anthropic)
