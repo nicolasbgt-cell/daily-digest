@@ -2,6 +2,45 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-23
+
+- Docker is weird : [Hacker News](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- LLMs are making formal software verification feasible at a much larger scale : [Hacker News](https://www.anthropic.com/research/formal-verification)
+- OpenShell: a safe, private runtime for fleets of autonomous AI agents : [Hacker News](https://github.com/NVIDIA/OpenShell)
+- Every AI model has the same 'controversial' take on humans : [Hacker News](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
+- The foolishness of 'natural language programming' \(1978\) : [Hacker News](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+- Run full iOS 16.5 firmware on Android devices : [Hacker News](https://github.com/oosexgang/hackios-xnu-kernel)
+- Getting ready to operate GNU Taler in Germany : [Hacker News](https://www.taler.net/en/news/2026-13.html)
+- Jank: the native Clojure dialect with seamless C\+\+ interop : [Hacker News](https://jank-lang.org/)
+- Why my Asus laptop kept rebooting after sleep and how to fix it : [Hacker News](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep)
+- Turning database grading into RL rewards: post-training agents with ThinkingBox : [Hugging Face](https://huggingface.co/blog/microsoft/thinkingbox-training)
+- OlmoEarth v1.3: state-of-the-art embeddings for the whole planet : [Hugging Face](https://huggingface.co/blog/allenai/olmoearth-v1-3)
+- Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta : [Hugging Face](https://huggingface.co/blog/meta-muse-spark-open)
+- Welcome FLUX.3 Image Klein in Diffusers : [Hugging Face](https://huggingface.co/blog/flux-3)
+- Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback : [TechCrunch](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
+- Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia : [TechCrunch](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
+- Left alone with nothing to do, AI agents started playing : [TechCrunch](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
+- OpenAI working on new $30B raise at $1.25T valuation ahead of IPO : [TechCrunch](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
+- Rivian buys world model startup to accelerate self-driving ambitions : [TechCrunch](https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/)
+- Arc browser sunsets December 22 as The Browser Company doubles down on Dia : [TechCrunch](https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/)
+- The secret to fast startup growth isn't early sales, top names in tech say : [TechCrunch](https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/)
+- 1Password launches a way for AI agents to log in on your behalf without seeing your password : [TechCrunch](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
+- Canva releases its first image generation model : [TechCrunch](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/)
+- OpenAI makes its Jev competitor widely available as decision model competition heats up : [TechCrunch](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)
+- Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence' : [TechCrunch](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)
+- The alien space of science: coherent but cognitively unavailable directions : [Hacker News](https://arxiv.org/abs/2603.01092)
+- The HTML-in-Canvas API origin trial : [Hacker News](https://developer.chrome.com/blog/html-in-canvas-origin-trial)
+- Show HN: OnKey, I'm a bad singer, so I built an app to show where I'm off-key : [Hacker News](https://github.com/dsmurrell/onkey)
+- Is this the new cyber normal? : [Hacker News](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
+- Remove pgrust: the entry is cheating : [Hacker News](https://github.com/ClickHouse/ClickBench/pull/2165)
+- Investor-owned utilities charge 23% more for electricity than public providers : [Hacker News](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
+- OpenSSL 4.1.0 : [Hacker News](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+- Phone is about to stop being yours: 70 days until lockdown : [Hacker News](https://keepandroidopen.org/)
+- Shitter, a Nitter fork : [Hacker News](https://codeberg.org/shitter/shitter)
+- Hacker leaks 281 GB of data from Germany's far-right AfD party : [Hacker News](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd)
+- Does your model run on AWS Trainium? Look it up : [Hugging Face](https://huggingface.co/blog/torch-neuronx-model-support)
+- Welcome Beam: a 501B open model you can own, customize, and scale : [Hugging Face](https://huggingface.co/blog/reflection-beam)
+
 ## 2026-10-22
 
 - Meta ordered to pay $25B in Cambridge Analytica case : [Hacker News](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html), [TechCrunch](https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/)
