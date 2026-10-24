@@ -2,6 +2,27 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-24
+
+- Kimi K3.1 Pro and K3.1 Pro Highspeed : [Hacker News](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- Twelve years of distributed SQLite : [Hacker News](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+- How close can pure functional programming get to C? : [Hacker News](https://rtfeldman.com/fp-vs-c)
+- Dessa: a conversation model trained only on speech : [Hacker News](https://block.xyz/dessa)
+- A practical guide to AI image generation, from diffusion to agents : [Hacker News](https://danielball.com/notes/ai_image_generation.html)
+- Bringing uv and ty together : [Hacker News](https://astral.sh/blog/uv-ty-integration)
+- Canadians are running out of time to oppose Bill C-22 : [Hacker News](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
+- LitPivot: Developing research ideas through dynamic contextualization within the literature landscape : [Hugging Face](https://huggingface.co/blog/allenai/litpivot)
+- OpenAI says it will no longer train its AI models on the live internet, citing "significant risks" : [TechCrunch](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
+- Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors : [TechCrunch](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
+- Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach : [TechCrunch](https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/)
+- OBS Studio 33 : [Hacker News](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps : [Hacker News](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
+- How to run a city builder on 16 MHz : [Hacker News](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
+- AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist : [Hacker News](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
+- TornadoVM 7 Enables GPU-Native Workloads from Java Applications : [Hacker News](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
+- The Boox Palma 2 Pro finally got me to stop reading on my phone : [TechCrunch](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/)
+- Here are the top AI agents that can live in your text messages : [TechCrunch](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
+
 ## 2026-10-23
 
 - Docker is weird : [Hacker News](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
