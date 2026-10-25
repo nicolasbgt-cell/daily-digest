@@ -2,6 +2,33 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-25
+
+- Elon Musk accuses Kyiv of violating Starlink's terms of use : [Le Figaro](https://www.lefigaro.fr/international/elon-musk-accuse-l-ukraine-de-violer-les-conditions-d-utilisation-de-starlink-20261025)
+- Five Qwen3.8-27B models match Fable 5 with the GVS5H harness : [Hacker News](https://github.com/slee-persis/GVS5H)
+- We should be more ambitious with the software we build : [Hacker News](https://danluu.com/ambitious/)
+- Cerebras deploys trillion-parameter AI models : [Hacker News](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+- Picasa Photo Viewer rebuilt for Linux, project named Licasa : [Hacker News](https://github.com/sanxchep/licasa)
+- The Goose programming language : [Hacker News](https://aardappel.github.io/goose/)
+- Small programs and languages : [Hacker News](https://ratfactor.com/cards/pl-small)
+- America has lost 200k jobs in media, film and the arts: how much is AI? : [Hacker News](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+- Why Gopher in 2026? : [Hacker News](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
+- Pragtical v3.14, Lua-based text editor, adds menus, floating views and sessions : [Hacker News](https://pragtical.dev/blog/pragtical-v3140-release)
+- I built a stereo vision board for hardware hackers : [Hacker News](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
+- Will AI expose the fragile infrastructure of the internet? : [TechCrunch](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/)
+- The AI graveyard: a running list of projects and startups that did not make it : [TechCrunch](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+- Block's new voice model sounds eerily human : [TechCrunch](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
+- PHP-ocalypse: how two critical web bugs almost broke the internet : [TechCrunch](https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/)
+- These clever apps show off the iPhone Duo's potential : [TechCrunch](https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/)
+- Forced to pick, Grok's AI model chooses Republicans and OpenAI's chooses Democrats : [TechCrunch](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
+- Rewriting a commercial engine in Jai : [Hacker News](https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch)
+- fheroes2: a recreation of the Heroes of Might and Magic II game engine : [Hacker News](https://github.com/ihhub/fheroes2)
+- Nikon photography contest winner loses title after scientists spot signs of AI : [Hacker News](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
+- XPS 16 Creator Edition laptop : [Hacker News](https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263)
+- Reverse engineer of PC-98 Touhou games retires : [Hacker News](https://rec98.nmlgc.net/blog/2026-10-05)
+- Show HN: Farol, a risk map of a pull request for the person who approves it : [Hacker News](https://github.com/winnin/farol)
+- The hottest AI wearables and gadgets you should know about : [TechCrunch](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)
+
 ## 2026-10-24
 
 - Kimi K3.1 Pro and K3.1 Pro Highspeed : [Hacker News](https://www.kimi.ai/blog/kimi-k3-1-pro)
