@@ -2,6 +2,32 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-26
+
+- PaperPilot – Zero-cloud, pure-Rust PDF engine with WASM and MCP : [Hacker News](https://github.com/KrushnaVardhanReddy/PaperPilot)
+- Cognitive mercantilism: AI panic resembles fears of early capitalism : [Hacker News](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
+- Show HN: A truly modular keyboard : [Hacker News](https://github.com/notaroomba/keybytes)
+- Attention is not what you need \(2025\) : [Hacker News](https://arxiv.org/abs/2512.19428)
+- IBM CEO says open-weight models are now good and cheap on-prem : [Hacker News](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
+- Microsoft Decision-1: 9B Qwen model launch explained : [Hacker News](https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/)
+- The curse of soldered RAM : [Hacker News](https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/)
+- Why I am a programmer : [Hacker News](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
+- Grok releases the first seven minutes of its AI-generated 'Odyssey' : [TechCrunch](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
+- TechCrunch Mobility: Blue-green is the color of autonomy : [TechCrunch](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/)
+- Superhuman hardware design is the easy part : [Hacker News](https://www.a16z.news/p/superhuman-hardware-design-is-the)
+- Websites should be printable : [Hacker News](https://brennenputh.me/blog/printable-websites/)
+- Tasks as code: move your tickets into the repository : [Hacker News](https://typemill.net/knowledge-hub/tasks-as-code)
+- Sebastian Raschka's from-scratch video course on building reasoning models : [Hacker News](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+- Fixing tool-call accuracy in vLLM : [Hacker News](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
+- Pharo 14 : [Hacker News](https://pharo.org/news/2026-10-26-Pharo14Release.html)
+- SIMD-accelerated computer vision on a $2 microcontroller : [Hacker News](https://shraiwi.com/blog/simd-fast-esp32s3/)
+- Partyline: a group voice application for Reticulum, built on LXST : [Hacker News](https://github.com/RFnexus/partyline)
+- Colorfigures : [Hacker News](https://april-zhu.com/colorfigures)
+- PhysicsForums and the dead internet theory \(2025\) : [Hacker News](https://hallofdreams.org/posts/physicsforums/)
+- Anthropic officially files for its IPO : [TechCrunch](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)
+- Apple unveils new iPad mini with OLED display and faster A20 Pro chip : [TechCrunch](https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/)
+- Bacon soda, potato-print jacket… Just Eat's AI tool for generating food photos turns into a fiasco : [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/soda-au-bacon-veste-aux-motifs-de-pommes-de-terre-l-outil-ia-de-just-eat-pour-generer-des-photos-de-plats-vire-au-fiasco-20261026)
+
 ## 2026-10-25
 
 - Elon Musk accuses Kyiv of violating Starlink's terms of use : [Le Figaro](https://www.lefigaro.fr/international/elon-musk-accuse-l-ukraine-de-violer-les-conditions-d-utilisation-de-starlink-20261025)
