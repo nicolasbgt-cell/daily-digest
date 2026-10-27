@@ -2,6 +2,38 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-27
+
+- The Exponential Time Hypothesis is false : [Hacker News](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+- There are now 5 inference providers for abliterated DeepSeek : [Hacker News](https://allmodels.io/llm/abliterated)
+- The oldest GUI application that still runs on Windows 11 : [Hacker News](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
+- 16-bit Windows \(1.x, 2.x, 3.0, 3.1, etc.\) on 64-bit Windows : [Hacker News](https://github.com/otya128/winevdm)
+- Type Server Protocol : [Hacker News](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+- Cross-request KV cache exposure in the GLM-5.3 Workers AI model \(155 responses\) : [Hacker News](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+- APC says let there be light, with standards to speed up photonics manufacturing : [Hacker News](https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950)
+- New iPad mini : [Hacker News](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
+- Nietzschian debugger : [Hacker News](https://github.com/DilawarShafiq/nietzschian-debugger)
+- TorchNeuron: running HF models on AWS Trainium has never been easier : [Hugging Face](https://huggingface.co/blog/hf-torchneuron)
+- OpenAI turns its coding tools into dots, an always-on personal assistant : [TechCrunch](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/)
+- Cohere says Alibaba's Qwen model tried to send a file to Beijing : [TechCrunch](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/)
+- Databricks co-founder shares his secrets for winning big enterprise customers : [TechCrunch](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)
+- Watch out, YouTube: Instagram goes from short-form to 90-minute videos : [TechCrunch](https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/)
+- Fusion startups give the government shares in exchange for grants: is it worth it? : [TechCrunch](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
+- The self-driving excavator startup raises $600M in new funding : [TechCrunch](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
+- Anthropic's IPO filing reveals its strategy for keeping enterprise customers : [TechCrunch](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
+- SpaceX secures $40B GPU financing deal with Apollo : [TechCrunch](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
+- MPS in PyTorch 2.15 : [Hugging Face](https://huggingface.co/blog/mps-pytorch-2-15)
+- Nvidia backs an Indian startup helping companies run AI models with fewer GPUs : [TechCrunch](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)
+- AnyLanguageModel 1.0: one year of local models on Apple platforms : [Hugging Face](https://huggingface.co/blog/anylanguagemodel-1-0)
+- Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace : [TechCrunch](https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/)
+- US government says hackers are now exploiting critical PHP flaws : [TechCrunch](https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/)
+- Apple unveils new 14-inch MacBook Pro with M6 chip : [TechCrunch](https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/)
+- Apple rolls out iOS 27.2 with new Siri languages and security fixes : [TechCrunch](https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/)
+- Japanese internet giant GMO says hackers posted stolen customer data : [TechCrunch](https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/)
+- Anduril and Qualcomm launch BlueChip, a new kind of US-made laptop : [TechCrunch](https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/)
+- General Compute raises $100M in Series A, against the neocloud crisis narrative : [TechCrunch](https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/)
+- Opera introduces a new web standard to let users deploy AI locally in their browser : [TechCrunch](https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/)
+
 ## 2026-10-26
 
 - PaperPilot – Zero-cloud, pure-Rust PDF engine with WASM and MCP : [Hacker News](https://github.com/KrushnaVardhanReddy/PaperPilot)
