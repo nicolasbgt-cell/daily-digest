@@ -2,6 +2,39 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-30
+
+- Binance platform hack estimated at $6.3 billion : [TechCrunch](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/), [Hacker News](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates), [Hacker News](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/), [TechCrunch](https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/)
+- Prediction platform Polymarket hit by an "intrusion", several million dollars potentially stolen : [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/la-plateforme-de-prediction-polymarket-victime-d-une-intrusion-plusieurs-millions-de-dollars-potentiellement-voles-20261029)
+- Backdoors in Claude Code extensions : [Hacker News](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- Fan-fiction site Archive of Our Own \(AO3\) could be offline for up to 4 weeks after a security incident : [TechCrunch](https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/)
+- Waymo taps Toyota to supply robotaxis for Japan and the UK : [TechCrunch](https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/)
+- Meta quietly launches an AI fashion app, Style Sketch : [TechCrunch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/)
+- GM agrees to $220M settlement over selling drivers' private data : [TechCrunch](https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/)
+- AWS will become a $1T business, Jassy says, but first it will spend big : [TechCrunch](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
+- DoorDash says it has received only "several hundred" orders from AI agents : [TechCrunch](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/)
+- Can AI data centers be mass-produced like cars? A startup wants to find out : [TechCrunch](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)
+- Rivian expands its joint venture with VW to include an AI assistant : [TechCrunch](https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/)
+- Azure's weakest link: five full cross-tenant compromises : [Hacker News](https://www.binarysecurity.no/posts/2026/10/one-root-case)
+- Astroterm: a planetarium for your terminal : [Hacker News](https://github.com/da-luce/astroterm)
+- Herdr releases its native app : [Hacker News](https://github.com/herdrdev/herdr-app)
+- We ran AI agent swarms in Minecraft and Mindustry : [Hacker News](https://labs.ycombinator.com/projects/games/index.html)
+- A tiny world model running games on a Raspberry Pi Pico 2 W : [Hacker News](https://github.com/SheepSeb/tinyworldformer)
+- LLM Voice : [Hacker News](https://martinfowler.com/bliki/LLM-Voice.html)
+- H.264 is magic \(2016\) : [Hacker News](https://sidbala.com/h-264-is-magic/)
+- Show HN: I turned DOOM into a Transformer : [Hacker News](https://github.com/mottopanikeiku/doomformer)
+- CVE-2026-98432: Linux TCP use-after-free risk and patch validation : [Hacker News](https://www.penligent.ai/hackinglabs/cve-2026-98432/)
+- Python on my wrist : [Hacker News](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
+- Turning database grading into RL rewards: post-training agents with ThinkingBox : [Hugging Face](https://huggingface.co/blog/microsoft/thinkingbox-training)
+- You don't need to believe in a god to get a religious exemption from using AI at work : [TechCrunch](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
+- I returned my iPhone Duo : [Hacker News](https://codakuma.com/i-returned-my-duo/)
+- Artificial Analysis v5 and the benchmarker's dilemma : [Hacker News](https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers)
+- Why a program doesn't work when run from a batch file but works when clicked : [Hacker News](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
+- US Democratic representatives table a resolution opposing an AI bubble bailout for Big Tech : [Hacker News](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
+- Post-training a 4B model with RL to fly a Tesla Roadster 21% better than GPT-6 Astra : [Hacker News](https://skypilot.ai/blog/flying-roadster-rl)
+- Finding panics with a call graph analyzer : [Hacker News](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
+- Does your model run on AWS Trainium? Check it : [Hugging Face](https://huggingface.co/blog/torch-neuronx-model-support)
+
 ## 2026-10-29
 
 - DoorDash to acquire Instacart for $17B : [Hacker News](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx), [Hacker News](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart), [TechCrunch](https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/)
