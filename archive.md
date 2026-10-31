@@ -2,6 +2,43 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-10-31
+
+- My favourite PowerMac is a Nintendo Wii : [Hacker News](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+- Tell HN: Scribd has been breached : [Hacker News](https://news.ycombinator.com/item?id=50312756)
+- Cloudflare Turnstile solver library, without headless browser : [Hacker News](https://github.com/chris124567/cfsolve)
+- Breaking the open web will not stop the bad bots : [Hacker News](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
+- Show HN: a working Nintendo in about 1 GB of Qwen weights : [Hacker News](https://github.com/dbreunig/nesformer)
+- Brief history of PDP computers : [Hacker News](https://entropicthoughts.com/history-of-pdp-computers)
+- Sanstun: a sans-IO, parallel-friendly WireGuard implementation in Rust : [Hacker News](https://www.firezone.dev/blog/introducing-sanstun)
+- Infinite Mac: BeOS : [Hacker News](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
+- Florilegium: procedural flowers in LaTeX : [Hacker News](https://github.com/kevinraymond/florilegium)
+- The federated code forge : [Hacker News](https://tangled.org/blog/forge/)
+- nemotron-halloween : [Hugging Face](https://huggingface.co/blog/nvidia/nemotron-halloween)
+- Pile-ins, payouts and pacing pressure: the investors behind the VCs open up : [TechCrunch](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/)
+- Nvidia weighs cosigning for Nscale’s AI data center in West Virginia : [TechCrunch](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)
+- Ollie, a privacy-focused AI assistant, is shutting down : [TechCrunch](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/)
+- Intel’s stock crashes, wiping $12B off the government’s stake : [TechCrunch](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/)
+- Applebee’s exposed customers’ personal data by leaving a database password in its app : [TechCrunch](https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/)
+- Cracks are emerging in the AI spending boom : [TechCrunch](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)
+- AI law firm Crosby bids for disintegrating firm Weil Gotshal : [TechCrunch](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)
+- Satlyt takes a new step toward turning satellites into space data centers : [TechCrunch](https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/)
+- Zest’s new AI agent finds restaurants and books reservations by text : [TechCrunch](https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/)
+- Google’s first data center satellite is online and writing poetry : [TechCrunch](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)
+- Theranos whistleblower Tyler Shultz warns the AI boom is a great opportunity to deceive people : [TechCrunch](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/)
+- Switch Lowering in GCC : [Hacker News](https://xoranth.net/gcc-switch/)
+- Show HN: Marelleo, an open-source story box built for my kids with an ESP32 : [Hacker News](https://zebra.rodeo/en/blog/marelleo/)
+- Digital minimalism : [Hacker News](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
+- AI, Lean and the future of formal verification, with Lean creator Leo de Moura : [Hacker News](https://thedataexchange.media/leo-de-moura-lean-aws/)
+- We took over ChatGPT accounts : [Hacker News](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+- Shiny object syndrome : [Hacker News](https://en.wikipedia.org/wiki/Shiny_object_syndrome)
+- Simple circuits can create complex behaviors : [Hacker News](https://aatishb.com/myriad/lets-build-a-brain/)
+- Malware uses LLMs to rank victims by their value : [Hacker News](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
+- Prospero: a new coding harness for a more civilized age : [Hacker News](https://nullprogram.com/blog/2026/10/31/)
+- Former Meta researcher torrented pirated books, then deleted them due to litigation : [Hacker News](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
+- From restaurant guides to payments, how TikTok is building a super app : [TechCrunch](https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/)
+- I took two iPhones on vacation, and the duo won me over : [TechCrunch](https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/)
+
 ## 2026-10-30
 
 - Binance platform hack estimated at $6.3 billion : [TechCrunch](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/), [Hacker News](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates), [Hacker News](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/), [TechCrunch](https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/)
