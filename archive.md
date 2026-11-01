@@ -2,6 +2,28 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-01
+
+- HackerTube: YouTube built from videos recommended by HN : [Hacker News](https://karpathy.bearblog.dev/hacker-tube/)
+- A Brazilian court sanctions lawyers for prompt injection in a court filing : [Hacker News](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+- TCP use-after-free: CVE-2026-98432 / CVSS 9.8 : [Hacker News](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+- Memdoor: a team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard : [Hacker News](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+- Leaking secrets from air-gap computers by spelling radio signals from RAM \(2024\) : [Hacker News](https://arxiv.org/abs/2409.02292)
+- The Altoids Project : [Hacker News](https://uvdn7.github.io/altoids-project/)
+- It's the memory latency, stupid : [Hacker News](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
+- Running a bootstrapped SaaS for 20 years with my brother : [Hacker News](https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/)
+- Data centers are now a midterm issue, even in Brooklyn : [TechCrunch](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)
+- Judge allows NAACP lawsuit over xAI data center pollution to move forward : [TechCrunch](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)
+- Japan's trains are great. Why is booking one so hard? : [Hacker News](https://vinibrasil.com/japan-train/)
+- The AI cost of JavaScript frameworks : [Hacker News](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+- Show HN: Point your camera at a landscape to learn about its geology : [Hacker News](https://outcrop.rocks/)
+- Proving and improving the Platonic representation hypothesis with JEPAs : [Hacker News](https://arxiv.org/abs/2610.39302)
+- Novellas with Groff : [Hacker News](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
+- We took over ChatGPT accounts : [Hacker News](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
+- Police chief unplugs Flock cameras after company ignores contract cancellation : [Hacker News](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
+- Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world : [TechCrunch](https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/)
+- Here's what 'renoa', the first new fiber in 25 years, feels like : [TechCrunch](https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/)
+
 ## 2026-10-31
 
 - My favourite PowerMac is a Nintendo Wii : [Hacker News](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
