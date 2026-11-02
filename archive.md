@@ -2,6 +2,27 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-02
+
+- Supermarket freezers hacked across Europe : [Hacker News](https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack), [TechCrunch](https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/)
+- Postgres 19 is late because many more bugs are being found now : [Hacker News](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
+- Nibnib: Image compression with extreme decompression speed : [Hacker News](https://github.com/raphlinus/nibnib)
+- Tips for more effective fuzz testing with AFL\+\+ : [Hacker News](https://nullprogram.com/blog/2025/02/05/)
+- Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust : [Hacker News](https://github.com/ivankovic/omnidiff)
+- Borrowed reading: stories from our extended colleagues : [TechCrunch](https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/)
+- AI can make tech CEOs' lives easier. What about everyone else? : [TechCrunch](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)
+- TechCrunch Mobility: A new, bigger AV boom is here : [TechCrunch](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/)
+- Binance resumes withdrawals following $6.3 billion breach : [TechCrunch](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
+- China's First Frontier AI Export Controls: Mofcom Announcement No. 48 : [Hacker News](https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/)
+- Show HN: I've updated my Linux System Call website and API : [Hacker News](https://syscall.sh/)
+- Show HN: HackerHack – HackerBooks but for Posts Posted on HN : [Hacker News](https://news.ycombinator.com/)
+- The future in old computer magazines \(1984–2004\) : [Hacker News](https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in)
+- Ford launches a 'privacy promise' and explains how and why it uses customer data : [TechCrunch](https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/)
+- WTF Ubuntu? : [Hacker News](https://chalmovsky.com/posts/wtf-ubuntu)
+- Anthropic releases amended IPO prospectus with third-quarter financials : [Hacker News](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html)
+- Technofeudalism : [Hacker News](https://en.wikipedia.org/wiki/Technofeudalism)
+- Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition : [TechCrunch](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)
+
 ## 2026-11-01
 
 - HackerTube: YouTube built from videos recommended by HN : [Hacker News](https://karpathy.bearblog.dev/hacker-tube/)
