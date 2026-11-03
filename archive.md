@@ -2,6 +2,47 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-03
+
+- Astra can read and write weights to improve Qwen : [Hacker News](https://rikiyat.github.io/blog/weight-space-programming/), [Hacker News](https://honnibal.dev/blog/astra-read-write-misleading)
+- DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs : [Hacker News](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+- Show HN: Hacker Times, a New York Times-inspired version of Hacker News : [Hacker News](https://hackertimes.ca/)
+- European RISC-V Industrial Computing Initiative : [Hacker News](https://erici.eu)
+- Show HN: Subvocal - Talk to your computer without making noise : [Hacker News](https://news.ycombinator.com/item?id=50340088)
+- Resisting Cognitive Surrender : [Hacker News](https://knlb.dev/essays/surrender)
+- If you love a website, back it up : [Hacker News](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
+- Efficient algorithms, the Exponential Time Hypothesis, and losing the plot : [Hacker News](https://www.argmin.net/p/galactus-the-devourer)
+- Launch HN: Momentic \(YC W24\) - Agents that catch bugs by using your app : [Hacker News](https://momentic.ai/)
+- Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You : [Hacker News](https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you)
+- Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities : [Hacker News](https://arxiv.org/abs/2608.25820)
+- Google takes Dreambeans to India to bring AI-generated personal stories to the masses : [TechCrunch](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)
+- Apple may try to increase revenue by doing something with third-party AI apps : [TechCrunch](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/)
+- Y Combinator's Garry Tan spends up to $200K a year on tokens : [TechCrunch](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
+- Apple says it's hard to predict when iPhone Duo constraints will improve : [TechCrunch](https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/)
+- Trajectory raises $45M to make AI model training accessible to nontechnical experts : [TechCrunch](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
+- Apple's inventory surges 154% as memory chip costs climb : [TechCrunch](https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/)
+- Anthropic warns it is very close to RSI capability, aka self-building AI : [TechCrunch](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
+- Germany says lawmakers' iPhones may have been hacked with spyware : [TechCrunch](https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/)
+- Web host Squarespace lays off 19% of its employees : [TechCrunch](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/)
+- Readwise takes on Amazon's Kindle and Goodreads with its new app for book lovers : [TechCrunch](https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/)
+- Nvidia - open-source auto-ontology : [Hacker News](https://github.com/NVIDIA/auto-ontology)
+- Toit v2.0.0 : [Hacker News](https://toit.io/blog/toit-v2-0-0/)
+- Transformers Model Integration Contracts : [Hugging Face](https://huggingface.co/blog/transformers-mic)
+- Yvonne Bajela brings $17M in fresh capital to Europe's startup scene : [TechCrunch](https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/)
+- Apple Watch's AI features for rewinding and recapping conversations begin beta testing : [TechCrunch](https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/)
+- Could a modern chess engine on a Pentium have defeated Kasparov in 1996? : [Hacker News](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)
+- Just a little AI resistance, as a treat : [Hacker News](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/)
+- AI is destroying my CS degree : [Hacker News](https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/)
+- Fujifilm to boost tape production 5x as AI fuels archiving demand : [Hacker News](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+- Octomind - open-source AI harness that saves your tokens, static rust : [Hacker News](https://github.com/Muvon/octomind)
+- Are the Fridges Ok? : [Hacker News](https://arethefridgesok.org/)
+- Charles Tandy, the mastermind behind Radio Shack : [Hacker News](https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/)
+- Quili AI : [Hacker News](https://www.quili.ai/)
+- Writing seen in PHerc. 306B, for the first time in 2000 years : [Hacker News](https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the)
+- Antimony: CAD software evolved from Lisp machines and not drafting tables : [Hacker News](https://www.mattkeeter.com/projects/antimony/3/)
+- Same model, different harness: CUGA, Hermes, and Deep Agents - when to pick CUGA? : [Hugging Face](https://huggingface.co/blog/ibm-research/cuga-harness)
+- Apple restricts dating apps and AI companions to users 18 and up : [TechCrunch](https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/)
+
 ## 2026-11-02
 
 - Supermarket freezers hacked across Europe : [Hacker News](https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack), [TechCrunch](https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/)
