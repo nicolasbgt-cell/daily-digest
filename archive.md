@@ -2,6 +2,48 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-04
+
+- C\+\+26 disapproved : [Hacker News](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
+- The internals of PostgreSQL : [Hacker News](https://www.interdb.jp/pg/index.html)
+- Jailbreaking my car's navigation system just so I can change the time : [Hacker News](https://blog.nns.ee/2026/11/02/renault-hack/)
+- Stringman, an $800 open-source room-scale gripper robot : [Hacker News](https://neufangled.com/)
+- Arrows to arrows, categories to queries \(2025\) : [Hacker News](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
+- Safari introduces Adaptive Dark Mode in 27.3 : [Hacker News](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+- Qwen 3.8 27B on my laptop can interpret model weights, too : [Hacker News](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
+- Postman silently installs AI plugins and attempts to share all API data : [Hacker News](https://github.com/postmanlabs/postman-app-support/issues/14370)
+- StateBench: Testing how language models track state changes over long documents : [Hugging Face](https://huggingface.co/blog/allenai/statebench)
+- Palette: teaching a small model to build decks in your design language : [Hugging Face](https://huggingface.co/blog/ibm-research/palette-deck-building)
+- CWE-bench v2: More coverage, quality, and transparency : [Hugging Face](https://huggingface.co/blog/cwe-bench)
+- Build specialized multimodal models with LFM3 : [Hugging Face](https://huggingface.co/blog/LiquidAI/lfm3)
+- Hugging Face ❤️ TorchTPU: TPUs, natively : [Hugging Face](https://huggingface.co/blog/hf-torchtpu)
+- Anthropic is working on a system to prove AI models' identity : [TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)
+- Data centers are turning to old jet engines as the wait for power grows : [TechCrunch](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)
+- Ted Schlein's Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom : [TechCrunch](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
+- Orbital Matter 3D-printed the first rigid beam in the vacuum of space : [TechCrunch](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/)
+- Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist : [TechCrunch](https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/)
+- Reddit tests ads in search results as traffic declines and growth concerns mount : [TechCrunch](https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/)
+- Netflix's new AI Discover tab helps you find something to watch based on your mood : [TechCrunch](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/)
+- CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off : [TechCrunch](https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/)
+- Anthropic is still grappling with the economics of compute : [TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
+- Kitty 0.50 : [Hacker News](https://sw.kovidgoyal.net/kitty/changelog/)
+- Verification is not knowledge: science needs more than answers : [Hacker News](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)
+- Encrypted firmware on Nvidia DGX Spark slows inference speed to 35% on Linux : [Hacker News](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
+- The lost malloc\(\) : [Hacker News](https://napcakes.nekoweb.org/posts/malloc/)
+- The Crédit Mutuel Arkéa bank victim of a cyberattack : [Le Figaro](https://www.lefigaro.fr/societes/la-banque-credit-mutuel-arkea-victime-d-une-cyberattaque-ayant-permis-des-operations-frauduleuses-20261104)
+- French blood establishment victim of a cyberattack : [Le Figaro](https://www.lefigaro.fr/social/apres-les-supermarches-l-etablissement-francais-du-sang-victime-d-une-cyberattaque-ses-chambres-froides-prises-pour-cible-20261104)
+- AI is forcing us to pay off 40 years of technical debt : [Hacker News](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
+- Incident with pull requests, Git operations and issues : [Hacker News](https://www.githubstatus.com/incidents/smtdswd1h2w4)
+- Tell HN: Gemini trains on chat history, even for subscribers \(personal accounts\) : [Hacker News](https://news.ycombinator.com/item?id=50363461)
+- Geoffrey Hinton: it might turn out we were better off without AI : [Hacker News](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+- Canva lays off over 1,200 people amid slowing growth : [TechCrunch](https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/)
+- North Korean fake job interview led to $6.3B Binance heist : [Hacker News](https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398)
+- Letting users trust their own MCP clients, without opening a phishing hole : [Hacker News](https://streamvessel.com/blog/mcp-trusted-redirect-uris)
+- Debian apt security update \(man-in-the-middle\) : [Hacker News](https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=)
+- Adding window functions to a spreadsheet : [Hacker News](https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/)
+- Mocktastic: a Meshtastic node on Arduino : [Hacker News](https://github.com/Vapmuz/Mocktastic)
+- Titan OS raises $46 million to expand its smart TV OS internationally : [TechCrunch](https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/)
+
 ## 2026-11-03
 
 - Astra can read and write weights to improve Qwen : [Hacker News](https://rikiyat.github.io/blog/weight-space-programming/), [Hacker News](https://honnibal.dev/blog/astra-read-write-misleading)
