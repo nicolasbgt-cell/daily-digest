@@ -2,6 +2,33 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-07
+
+- Asahi Linux progress toward Linux 7.3 : [Hacker News](https://asahilinux.org/2026/11/progress-report-7-3/)
+- Libghostty 1.0 : [Hacker News](https://mitchellh.com/writing/libghostty-1-0)
+- A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost : [Hacker News](https://hightouch.com/blog/llm-judges-identity-resolution)
+- What do the next 4000 emoji look like? : [Hacker News](https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look)
+- Firecracker VM Escape: PwnEscape Part 2 : [Hacker News](https://pwn.ai/blog/firecracker-escape)
+- AI is dramatically accelerating AI research : [Hacker News](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+- Can GROUP BY still be optimized after all these years? : [Hacker News](https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/)
+- From the front row to the hot seat — what the midterms mean for Big Tech : [TechCrunch](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
+- Crusoe sells troubled Wyoming data center project to Google : [TechCrunch](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
+- OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation : [TechCrunch](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
+- The Duo apps are coming, says Apple : [TechCrunch](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/)
+- Hundreds of Artex AI hacking tools found publicly exposed to the web : [TechCrunch](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
+- Meta introduces Spaces, a new way to collaborate with your Muse agent : [TechCrunch](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)
+- The Components of Agent Memory : [Hacker News](https://www.anthropic.com/research/components-of-agent-memory)
+- Bong: DuckDuckGo bang alternative, open-source and self-hosted : [Hacker News](https://bong.glendalab.com)
+- 8088 Domination Post-Mortem : [Hacker News](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/)
+- Every Mac comes with an \(undocumented\) family member classifier : [Hacker News](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+- Every Windows 11 app should kill Electron, and Discord just showed why : [Hacker News](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/)
+- ToothPaste : [Hacker News](https://brisk4t.github.io/blog/toothpaste/)
+- Running a law firm on Free software : [Hacker News](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
+- The $8 Linux Computer \(2022\) : [Hacker News](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+- British Library Legal deposit and web archiving : [Hacker News](https://www.bl.uk/services/legal-deposit/web-archiving)
+- Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5 : [Hacker News](https://github.com/hyphatech/spindle)
+- Tasfer: a text editor drawn on a 2D canvas : [Hacker News](https://www.hamza.se/blog/tasfer)
+
 ## 2026-11-06
 
 - Claude Code sends your email address to websites : [Hacker News](https://github.com/anthropics/claude-code/issues/107757)
