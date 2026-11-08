@@ -2,6 +2,29 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-08
+
+- Goodbye Claude, hello Pi : [Hacker News](https://caleb.software/posts/claude-to-pi.html)
+- What I run on my $10 OpenStick homelab : [Hacker News](https://blog.bosscher.ch/posts/openstick/)
+- ZapFast: a fast, native WhatsApp client in Rust and egui : [Hacker News](https://github.com/crmne/zapfast)
+- MaxxBench: "Nice DeepSWE score. But is it true?" : [Hacker News](https://maxxbench.unlap.ai/research/why-maxxbench/)
+- Coldframe, a honeypot posing as a supermarket fridge controller : [Hacker News](https://github.com/hedgerow-dev/coldframe)
+- Amsterdam School : [Hacker News](https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html)
+- Commodore PET – The World's First Personal Computer : [Hacker News](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
+- After the midterms, things are looking rocky for Elon Musk and data centers : [TechCrunch](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
+- Parents want safer phones for kids. These companies are answering the call. : [TechCrunch](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/)
+- Amazon's new basic Kindle proves you don't need all the bells and whistles : [TechCrunch](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/)
+- Agent memory needs its OpenTelemetry moment : [Hacker News](https://www.lorekit.io/blog/open-agent-memory-format)
+- WaveDudeNext 2D Wave Simulator : [Hacker News](https://github.com/graealex/WaveDudeNext)
+- GitHub New pull request overview page in public preview : [Hacker News](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
+- Petered \(what happens after the Peter Principle\) : [Hacker News](https://aworkinglibrary.com/writing/petered)
+- Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU : [Hacker News](https://github.com/synchopate/llama-modchip)
+- JIT bitmap text rendering for microcontrollers : [Hacker News](https://linebender.org/blog/jit-bitmap-text/)
+- Porting Android 16 to my blind mother's keypad phone : [Hacker News](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
+- Quadrillion-parameter transformers and how to train them : [Hacker News](https://qlabs.sh/research/parameters)
+- Writing as a thinking tool : [Hacker News](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
+- OpenAI raises $11B at a $1.25T valuation : [Hacker News](https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/)
+
 ## 2026-11-07
 
 - Asahi Linux progress toward Linux 7.3 : [Hacker News](https://asahilinux.org/2026/11/progress-report-7-3/)
