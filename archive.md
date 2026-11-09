@@ -2,6 +2,41 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-09
+
+- End of Tesla's Cybertruck experiment : [TechCrunch](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/), [TechCrunch](https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/)
+- Nvidia: CEO Jensen Huang admits affair with alleged Chinese spy : [TechCrunch](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)
+- Apple caps engineers' daily AI budget at $200 : [Hacker News](https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1)
+- KetchUp, open-source SketchUp alternative built with Rust and WebGPU : [Hacker News](https://ketchup3d.github.io/app/)
+- Unlocking any car from brand X in most of the world : [Hacker News](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+- I'm not convinced the AI bubble exists : [Hacker News](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
+- Declarative dragging : [Hacker News](https://declarative-dragging.github.io/)
+- Outlook.com rejects email from domains without DMARC : [Hacker News](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
+- A critique of GPUI : [Hacker News](https://blog.zortax.de/posts/a-critique-of-gpui)
+- The Qlobe: rotating quine \(2010\) : [Hacker News](http://mamememo.blogspot.com/2010/09/qlobe.html)
+- Goldman Sachs pulls Claude Code from its bankers and traders : [Hacker News](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+- Is Jensen Huang's job on the line? An expert estimates it's 'about 50-50' : [TechCrunch](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/)
+- Snap's Specs are still ridiculously expensive, but much more comfortable : [TechCrunch](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/)
+- He arrested a hacker, then spent 18 months clearing his name. Now he's a cybersecurity VC : [TechCrunch](https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
+- Next-Concept Modeling: fast, parallel coarse-to-fine text generation : [Hacker News](https://arxiv.org/abs/2610.14162)
+- Psalm 7 release: PHP security and static analysis software : [Hacker News](https://psalm.dev/articles/psalm-7)
+- Try Gleam : [Hacker News](https://nchagnet.eu/blog/you-should-try-gleam)
+- Fun things to do with your VM/370 CE machine : [Hacker News](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
+- Ginux: a new kernel runs Linux userspace, built through human-directed AI engineering : [Hacker News](https://zenodo.org/records/23682548)
+- Hours of YouTube and 85 handwritten pages of notes on LLM inference: start here : [Hacker News](https://github.com/samir-sarwar/samir-vllm)
+- Nvidia was in 1 in 11 startup rounds over $100M last year : [Hacker News](https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/)
+- What is malloc doing, anyway? : [Hacker News](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
+- Your experts have partners: HOPE for keeping them together : [Hugging Face](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
+- Tesla expands robotaxi service to San Antonio : [TechCrunch](https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/)
+- Zebkit: Chromium as an embeddable library : [Hacker News](https://github.com/ikey4u/zebkit)
+- I saw your HN comment : [Hacker News](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/)
+- Active benchmarking : [Hacker News](https://www.brendangregg.com/activebenchmarking.html)
+- How Australia played the first music on a computer : [Hacker News](https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/)
+- Nemotron-Personas-Finance-Japan: a synthetic dataset capturing Japan's demographics and financial context : [Hugging Face](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
+- Meta expands Instagram's AI age-guessing technology globally : [TechCrunch](https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/)
+- Waymo robotaxis kept illegally passing school buses after software fix, federal authorities say : [TechCrunch](https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/)
+- Automattic launches a platform to deploy vibe coding apps : [TechCrunch](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/)
+
 ## 2026-11-08
 
 - Goodbye Claude, hello Pi : [Hacker News](https://caleb.software/posts/claude-to-pi.html)
