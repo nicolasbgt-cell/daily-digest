@@ -2,6 +2,46 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-11
+
+- Protecting SSH Keys with the macOS Secure Enclave : [Hacker News](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+- Greg Kurtzer's Ginux is now a userspace kernel : [Hacker News](https://github.com/gmkurtzer/ginux)
+- Smart home devices should work without the internet : [Hacker News](https://docodethatmatters.com/home-automation-overnight-success/)
+- A great old-timey game-programming hack \(2013\) : [Hacker News](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+- Apple has a new Mac app coming to make running local AI models easy : [Hacker News](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
+- Synaptics patent claims stop work on DisplayLink drivers : [Hacker News](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
+- Why I wrote the BEAM book \(2025\) : [Hacker News](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
+- Tracking Anthropic-discovered vulnerabilities : [Hacker News](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+- BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model : [Hugging Face](https://huggingface.co/blog/qvac/botpsy)
+- Pay for Hugging Face Hub with your Google Cloud Account : [Hugging Face](https://huggingface.co/blog/hub-gcp-marketplace)
+- X launches its own clipping feature to spur influencer engagement : [TechCrunch](https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/)
+- OpenAI acquires Odessia, travel startup created by Sonder founder : [TechCrunch](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)
+- OpenAI, Anthropic face new oversight as New York's AI safety law takes effect : [TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)
+- Proximal Ventures raises debut fund to back startups bringing AI to drug development : [TechCrunch](https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/)
+- All 7 Anthropic founders will each cash out about $250M in IPO : [TechCrunch](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)
+- Oura to acquire AI-native primary care startup Counsel Health for $625M : [TechCrunch](https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/)
+- PSI is trying to make a business out of AI-driven scientific discovery : [TechCrunch](https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/)
+- OpenAI rolls out new business profiles, making ChatGPT a bit more like Google : [TechCrunch](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/)
+- Pixel Tag, Google's $30 Android-ready answer to Apple's AirTag, is now available : [TechCrunch](https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/)
+- Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks : [TechCrunch](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)
+- Sundrop turns your baby photos into recaps, time lapses, and more, without AI : [TechCrunch](https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/)
+- Apple TV makes sign language interpretation a built-in accessibility feature : [TechCrunch](https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/)
+- Palette: teaching a small model to build decks in your design language : [Hugging Face](https://huggingface.co/blog/ibm-research/palette-deck-building)
+- CWE-bench v2: More coverage, quality, and transparency : [Hugging Face](https://huggingface.co/blog/cwe-bench)
+- Nvidia's crisis has corporate governance experts reaching for the popcorn : [TechCrunch](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/)
+- Using voltage glitching to unleash the A100 in my mining card : [Hacker News](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
+- Can a Linear Program Do Weight-Space Programming? : [Hacker News](https://nathan.rs/posts/weight-space-lp/)
+- Tinfoil \(YC P25\) is hiring an applied AI security engineer in San Francisco : [Hacker News](https://news.ycombinator.com/item?id=50452404)
+- Next-Level Benchmarking Overfitting – Thomas Neumann : [Hacker News](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)
+- Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h : [Hacker News](https://pietromiotti.com/latest/maya-site/?maya)
+- Atuin Threads: All your agent sessions on every machine : [Hacker News](https://blog.atuin.sh/threads-agent-sessions/)
+- Peer-to-peer WebRTC connections with built-in signaling and discovery : [Hacker News](https://github.com/lukks/like-webrtc)
+- Token Pooling-Aware Training for Multi-Vector Embedding Models : [Hugging Face](https://huggingface.co/blog/token-pooling)
+- Siri co-founder backs Helix for its voice ID tech : [TechCrunch](https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/)
+- Databricks' new AI agent tells CEO Ali Ghodsi the unvarnished truth : [TechCrunch](https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/)
+- Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads : [TechCrunch](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/)
+- Spain: investigation opened into alleged distribution of child abuse content on TikTok : [Le Figaro](https://www.lefigaro.fr/flash-eco/espagne-ouverture-d-une-enquete-pour-diffusion-presumee-de-contenus-pedophiles-sur-tiktok-20261111)
+
 ## 2026-11-10
 
 - Anthropic releases new Mythos and Fable models : [Hacker News](https://www.anthropic.com/claude-fable-and-mythos-5-2), [TechCrunch](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)
