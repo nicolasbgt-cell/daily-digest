@@ -2,6 +2,45 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-13
+
+- Global Microsoft Outlook outage : [TechCrunch](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/), [Hacker News](https://twitter.com/MSFT365Status/status/2121079061774491735), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/panne-mondiale-d-outlook-microsoft-ne-voit-aucun-signe-d-action-malveillante-ou-de-cyberattaque-a-ce-stade-20261113), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/en-direct-panne-mondiale-de-microsoft-et-d-outlook-les-difficultes-se-poursuivent-de-lourdes-consequences-rapportees-dans-le-monde-20261113), [TechCrunch](https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/)
+- Jensen Huang resigns from Nvidia : [TechCrunch](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/), [TechCrunch](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/), [TechCrunch](https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/), [TechCrunch](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+- Edge0-145B: Frontier AI on your own computer : [Hacker News](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+- IceWM : [Hacker News](https://ice-wm.org/)
+- Rust 1.100 : [Hacker News](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+- Brave Search API accepts agentic payments via the x402 protocol : [Hacker News](https://brave.com/blog/search-api-agentic-payments/)
+- Switcher \(2004\) : [Hacker News](https://folklore.org/Switcher.html)
+- Gemini 4 Hydrogen and Orchestrator : [Hacker News](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+- Show HN: my $300 embroidery machine needed a subscription, so I built my own app : [Hacker News](https://github.com/simpsoka/zigzag)
+- Nvidia employees petition to bring back Jensen Huang : [Hacker News](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
+- Foundation Models framework : [Hacker News](https://developer.apple.com/foundation-models-framework/)
+- I'm making LLMs work on small and old devices : [Hacker News](https://github.com/hyperionaidev/smolmaxxing/)
+- LLMON: an LLM-native markup language, now in Granite 4.1 3B and 8B : [Hugging Face](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+- Democrats launch Nvidia investigation and write scathing letter on Huang's scheme with Trump : [TechCrunch](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)
+- Muse can now place calls to US businesses, if you pay : [TechCrunch](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)
+- Nebius tests the neocloud playbook with $40 billion in planned spending : [TechCrunch](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)
+- Google's latest Search upgrade promises better answers to the most complicated questions : [TechCrunch](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)
+- Nectar launches an AI agent to automate creator discovery and outreach for brands : [TechCrunch](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
+- United Airlines blocks AI agents from booking flights, citing cybersecurity risks : [TechCrunch](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/)
+- SoftBank's billion-dollar loss may have capped AI's natural gas ambitions : [TechCrunch](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)
+- Phota Labs uses AI to turn everyday photos into professional-looking shots : [TechCrunch](https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/)
+- Nvidia affair: Malaysia investigates a Megaspeed subsidiary over possible diversion of AI chips : [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-la-malaisie-annonce-enqueter-sur-une-filiale-de-megaspeed-concernant-un-eventuel-detournement-de-puces-d-ia-20261113)
+- The dawn of the data intelligence engineer : [Hacker News](https://motherduck.com/blog/the-data-intelligence-engineer/)
+- Egyptian and Nigerian English join the Open ASR Leaderboard : [Hugging Face](https://huggingface.co/blog/open-asr-leaderboard-liva)
+- Israel's VCs see an opportunity for challengers in Nvidia's turmoil : [TechCrunch](https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/)
+- Jensen Huang didn't show confidence in his successor, report says : [TechCrunch](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/)
+- Reverse engineering my Coway air purifier to ditch the cloud : [Hacker News](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
+- Why Zig over C for systems programming : [Hacker News](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
+- A technical vision for the Haskell ecosystem : [Hacker News](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
+- Lonewolf 0.3: a standalone XMPP server written in Rust : [Hacker News](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
+- US university students tell surveillance cameras to Flock off : [Hacker News](https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts)
+- llama.cpp v1.0.0: a stronger foundation for the local AI ecosystem : [Hugging Face](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+- ToyBlocks: a controlled world for robot learning and evaluation : [Hugging Face](https://huggingface.co/blog/allenai/toyblocks)
+- Uber confirms hackers stole thousands of drivers' license information : [TechCrunch](https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
+- ElevenLabs' new app combines meeting note-taking and dictation for teams : [TechCrunch](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)
+- Panne d’Outlook : quelles solutions alternatives à la messagerie pouvez-vous utiliser ? : [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/panne-d-outlook-quelles-solutions-alternatives-a-la-messagerie-pouvez-vous-utiliser-20261113)
+
 ## 2026-11-12
 
 - Jensen Huang resigns as head of Nvidia : [Hacker News](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition), [TechCrunch](https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/), [TechCrunch](https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-le-patron-du-geant-americain-des-puces-jensen-huang-a-demissionne-annonce-la-firme-20261112), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-l-action-du-geant-americain-de-la-tech-plonge-de-13-apres-la-demission-de-son-patron-jensen-huang-20261112)
