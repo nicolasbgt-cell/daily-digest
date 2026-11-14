@@ -2,6 +2,36 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-14
+
+- All flights grounded across the United States : [Hacker News](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247), [Hacker News](https://grounds.top/), [TechCrunch](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/), [Le Figaro](https://www.lefigaro.fr/international/etats-unis-le-regulateur-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication-20261113)
+- Nvidia scandal and Jensen Huang's departure : [Hacker News](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html), [TechCrunch](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
+- Global Microsoft outage : [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/outlook-teams-copilot-microsoft-annonce-la-fin-de-la-panne-mondiale-apres-plus-de-24-heures-de-perturbations-20261114)
+- Ggml v1.0.0 released : [Hacker News](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+- Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs : [Hacker News](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- Terminal borders that don't cost a cell : [Hacker News](https://www.joshka.net/cell-borders/)
+- Unsloth Qwen3.8-27B quantizations – Dynamic v3.1 update : [Hacker News](https://unsloth.ai/docs/models/qwen3.8)
+- What happened to 3Com? : [Hacker News](https://dfarq.homeip.net/what-happened-to-3com/)
+- After 600 experiments, here's what I discovered about JEPA world models : [Hacker News](https://haddyalchaer.com/jepa)
+- How not to build a music player : [Hacker News](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
+- Build a robot pick-and-place simulation with SimReady assets : [Hugging Face](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
+- XYBench: Helping with the problem behind the question : [Hugging Face](https://huggingface.co/blog/allenai/xybench)
+- Amazon's new Kindle Colorsoft is a premium e-reader with a premium price : [TechCrunch](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
+- This young startup wants to power floating data centers with the ocean's heat, and investors are already on board : [TechCrunch](https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/)
+- Export-banned Nvidia chips are behind China's most powerful AI models: uh-oh, Jensen\! : [TechCrunch](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)
+- ChatGPT's new Wallet lets AI agents shop and check out for you : [TechCrunch](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)
+- Why get an expensive Pi when I have an old phone? : [Hacker News](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
+- Extending LLDB to debug applications that span CPUs and GPUs : [Hacker News](https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/)
+- Let's write a PostScript interpreter : [Hacker News](https://beyondloom.com/blog/postscript.html)
+- Tesla will sell its Cybercab, a self-driving car with no steering wheel or pedals, to private buyers : [Le Figaro](https://www.lefigaro.fr/societes/tesla-va-vendre-son-cybercab-une-voiture-autonome-sans-volant-ni-pedales-a-des-particuliers-20261114)
+- Advancing science and engineering with Antigravity's /teamwork : [Hacker News](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
+- Show HN: Fursoy – out-of-order RV64IMAFDV core in SystemVerilog \(Linux 6.6\) : [Hacker News](https://github.com/FURSOY/fursoy-cpu)
+- Tech companies are trying to shift the concept of privacy \(again\) : [Hacker News](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again)
+- Testing a trash can Faraday cage : [Hacker News](https://www.jefftk.com/p/testing-a-trash-can-faraday-cage)
+- Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM : [Hacker News](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
+- Show HN: Agweb – a browser for agents that stays out of your way : [Hacker News](https://github.com/paul-nameless/agweb)
+- A visual explanation of reinforcement learning : [Hacker News](https://aatishb.com/myriad/how-brains-learn/)
+
 ## 2026-11-13
 
 - Global Microsoft Outlook outage : [TechCrunch](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/), [Hacker News](https://twitter.com/MSFT365Status/status/2121079061774491735), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/panne-mondiale-d-outlook-microsoft-ne-voit-aucun-signe-d-action-malveillante-ou-de-cyberattaque-a-ce-stade-20261113), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/en-direct-panne-mondiale-de-microsoft-et-d-outlook-les-difficultes-se-poursuivent-de-lourdes-consequences-rapportees-dans-le-monde-20261113), [TechCrunch](https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/)
