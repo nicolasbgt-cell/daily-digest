@@ -2,6 +2,48 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-16
+
+- All AI-generated code should be open source : [Hacker News](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+- The MacBook Pro's OLED PWM problem : [Hacker News](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
+- Things That Turbo Pascal Is Smaller Than \(2011\) : [Hacker News](https://prog21.dadgum.com/116.html)
+- Understanding positional embeddings in modern LLMs : [Hacker News](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
+- The HTTP status code 483 \(I'm not a freezer\) : [Hacker News](https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/)
+- A NES emulator written in Odin : [Hacker News](https://lucypero.com/lucynes.html)
+- Emacs Is My Browser : [Hacker News](https://joshblais.com/blog/emacs-as-my-browser/)
+- The Telephone Changed the World : [Hacker News](https://lithub.com/how-the-telephone-changed-the-world/)
+- Chasing an audio artifact on power loss : [Hacker News](https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/)
+- Universal XSS in uBlock Origin via the element picker : [Hacker News](https://iter.ca/post/ubo-uxss/)
+- Old Bitly links are being hijacked : [Hacker News](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+- What's next for Nvidia? : [Hacker News](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
+- Protomaps: self-hosting map tiles has gotten cheap and easy : [Hacker News](https://bruceroettgers.eu/blog/protomaps/)
+- Do we still have to denormalize? Have your schema and search it too : [Hacker News](https://www.paradedb.com/blog/joins)
+- Apple launches new app to study how people use AI for health : [TechCrunch](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/)
+- Indian chip startup Bharat Semi raises $24M seed round to target global AI sensor market : [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
+- Is bad news for Jensen Huang also bad news for the AI industry? : [TechCrunch](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)
+- Flaming Hydra's new Kickstarter campaign rethinks e-book ownership and digital lending : [TechCrunch](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
+- TechCrunch Mobility: the Nvidia backup plan for China's self-driving industry : [TechCrunch](https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/)
+- Researchers track whole body movement with just a smartwatch : [Hacker News](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
+- Simple 8085 computer : [Hacker News](https://www.hackster.io/mit41301/simple-8085-computer-9fe156)
+- Helsing backer Plural raises $1.1B to fund Europe's next moonshots : [TechCrunch](https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/)
+- The secret ThinkPad power button code to bring dead laptops back to life \(2007\) : [Hacker News](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
+- OOS, an open operating system for Rigol scopes : [Hacker News](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
+- Exact gradients through a BRep kernel : [Hacker News](https://muni.works/research/vcad)
+- It's always DNS, so why are we running our own? : [Hacker News](https://s2.dev/blog/dns-server)
+- …and the proof is checked in Lean : [Hacker News](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
+- Your experts have partners: HOPE for keeping them together : [Hugging Face](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
+- Freshworks alumni raise $53M to take on Salesforce and HubSpot with an AI-native CRM : [TechCrunch](https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/)
+- Zoox robotaxis are now on the Uber app in Las Vegas : [TechCrunch](https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/)
+- What is w2rt6byl5nf1opmc-a.com? : [Hacker News](https://jack.cab/blog/siterate)
+- Winudf, DVD/BluRay driver for DOS, Windows 1.x to 3.x / 95 / 98 / ME : [Hacker News](https://github.com/ages2001/WINUDF)
+- Show HN: ThingStudio, Node-RED style programming for microcontrollers : [Hacker News](https://thingstudio.net/)
+- Audible turns to AI to help users discover audiobooks : [TechCrunch](https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/)
+- US tightens AI chip export controls to deter Chinese companies from accessing compute remotely : [TechCrunch](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)
+- Google Maps can now build trip itineraries with real-time details about each stop : [TechCrunch](https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/)
+- Mazama Energy has a solution for geothermal's biggest drilling problem : [TechCrunch](https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/)
+- After dodging death, battery startup Our Next Energy is now going public : [TechCrunch](https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/)
+- Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs : [TechCrunch](https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/)
+
 ## 2026-11-14
 
 - All flights grounded across the United States : [Hacker News](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247), [Hacker News](https://grounds.top/), [TechCrunch](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/), [Le Figaro](https://www.lefigaro.fr/international/etats-unis-le-regulateur-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication-20261113)
