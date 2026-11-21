@@ -2,6 +2,32 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-21
+
+- Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup : [Hacker News](https://thinkingmachines.ai/news/inkling-2-mini/), [Hugging Face](https://huggingface.co/blog/inkling2mini)
+- AI claims solution to Riemann hypothesis, and a human does too : [TechCrunch](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/), [Hacker News](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- ClawDOS, an AI coding agent for DOS : [Hacker News](http://ricapar.net/ClawDOS/)
+- We promoted developers into architects without informing them : [Hacker News](https://manidoraisamy.com/developer-to-architect.html)
+- Valkey kills the skiplist, cuts sorted set overhead by up to 43% : [Hacker News](https://valkey.io/blog/from-skiplist-to-b+tree/)
+- Clojure will affect the way you think about programming \(2017\) : [Hacker News](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
+- Language Models Can Rewrite Their Own Weights : [Hacker News](https://arxiv.org/abs/2611.21885)
+- DreamCoder: Coding harness and IDE from the author of Mastering Emacs : [Hacker News](https://www.masteringemacs.org/article/announcing-dreamcoder)
+- Backblaze Notice at Collection and Privacy Policy : [Hacker News](https://www.backblaze.com/company/policy/privacy)
+- Startup sues Apple in India over tap-to-share contacts feature : [TechCrunch](https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/)
+- Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now : [TechCrunch](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)
+- Daniel Ek backs AI researcher's fusion power startup : [TechCrunch](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
+- Super-hot rock geothermal could end data center energy woes : [TechCrunch](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)
+- Chips can survive the space environment, but can their financing? : [TechCrunch](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
+- Bending Spoons buys Mailchimp for $3.68B : [TechCrunch](https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/)
+- Build a Robot Pick-and-Place Simulation with SimReady Assets : [Hugging Face](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
+- XYBench: Helping with the problem behind the question : [Hugging Face](https://huggingface.co/blog/allenai/xybench)
+- Brazil's tax authority open-sources its tax calculator on GitHub under MIT : [Hacker News](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
+- RCE in Gnupg : [Hacker News](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
+- My Monitor Was Cutting My Download Speed by 75% : [Hacker News](https://blog.tymscar.com/posts/studiodisplayethernet/)
+- FBI reportedly investigating apparent hack of its criminal database : [Hacker News](https://www.bbc.com/news/articles/cvze7de86pk3o)
+- I'm quite pleased by the tech architecture of my art website : [Hacker News](https://klauria.tech/klauria-art/)
+- LLMs can read and write executables byte by byte from a hex dump : [Hacker News](https://sgiannopoulos.github.io/blog/machine-code-programming/)
+
 ## 2026-11-20
 
 - Anthropic debuts on the Nasdaq : [TechCrunch](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/)
