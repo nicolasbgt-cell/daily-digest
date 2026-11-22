@@ -2,6 +2,29 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-22
+
+- Inkling-2-Mini runs in 5.4 GB of memory : [Hacker News](https://github.com/ShinMegamiBoson/lookatmyquant)
+- Data processing incidents at inference providers : [Hacker News](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
+- PcapAnalyzer, self-hosted pcap analyzer with 27 problem detectors : [Hacker News](https://github.com/sebaandrada-cell/PcapAnalyzer)
+- The mythology of conscious AI : [Hacker News](https://www.noemamag.com/the-mythology-of-conscious-ai/)
+- AI supply chain security: what canary tokens found : [Hacker News](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
+- Split Radiance Cascades : [Hacker News](https://www.jacktollenaar.top/articles/split-rc.html)
+- A tale of two Nvidias : [TechCrunch](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
+- Here are the top AI agents that can live in your text messages : [TechCrunch](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
+- Selling an AI version of your face to a microdrama startup, the future of Hollywood? : [TechCrunch](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)
+- 87% of Anthropic's power will come from gas and 11% from coal in 2028 : [Hacker News](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
+- Notes on the discrete Fourier transform \(DFT\) : [Hacker News](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
+- Is 'fork' a missing operation in sandboxes? : [Hacker News](https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable)
+- Reverse engineering the next-page prefetcher in Skylake-X : [Hacker News](https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html)
+- A real Linux kernel compiled to WebAssembly : [Hacker News](https://github.com/pithings/unkernel)
+- Fast-Anything: don't rewrite it in Rust, rewrite the 5% that's slow : [Hacker News](https://github.com/EL4CTEO/fast-anything)
+- Show HN: I built a game where you are an LLM's subagent : [Hacker News](https://github.com/gulivan/worker755)
+- A better internet for everyone is possible. Today : [Hacker News](https://osw-alliance.net/en/)
+- A better vocabulary for testing : [Hacker News](https://alperenkeles.com/posts/vocab-for-testing/)
+- Muru, AI-assisted Rust server for Python apps by the creator of mod\_WSGI : [Hacker News](https://simonwillison.net/2026/Nov/21/muru/)
+- Can a TV be too large? An investigation : [TechCrunch](https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/)
+
 ## 2026-11-21
 
 - Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup : [Hacker News](https://thinkingmachines.ai/news/inkling-2-mini/), [Hugging Face](https://huggingface.co/blog/inkling2mini)
