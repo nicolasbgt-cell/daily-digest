@@ -2,6 +2,34 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-23
+
+- Jensen Huang reinstated as head of Nvidia : [Hacker News](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director), [TechCrunch](https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/), [TechCrunch](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/remercie-apres-ses-frasques-extraconjugales-jensen-huang-fait-son-retour-a-la-tete-de-nvidia-20261123)
+- XNU Linux: Full OS X GUI Userspace on Linux : [Hacker News](https://github.com/AFK-surf/xnulinux)
+- A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth : [Hacker News](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+- A Partial Evaluator for C : [Hacker News](https://phoenix.labri.fr/software/tempo/)
+- GL.iNet Security Notice 2026-11-20 : [Hacker News](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
+- LittleBit: Ultra Low-Bit Quantization via Latent Factorization \(2025\) : [Hacker News](https://arxiv.org/abs/2506.13771)
+- Treemap of the Riemann Hypothesis Lean Proof : [Hacker News](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
+- How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO : [TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)
+- OpenAI's chief scientist has thoughts on how to limit AI development : [TechCrunch](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
+- Why data centers are at the center of the Big Tech backlash : [TechCrunch](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
+- TechCrunch Mobility: A/B testing robots vs. humans : [TechCrunch](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
+- Yes, 17M lines of Lean is a lot : [Hacker News](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
+- Brake Check: Hijacking Trailer Brakes over Bluetooth : [Hacker News](https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/)
+- Perplexity and Intelligence : [Hacker News](https://openai.com/index/perplexity-and-intelligence/)
+- CollectWise \(YC F24\) Is Hiring : [Hacker News](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
+- The next circle of security hell : [Hacker News](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
+- MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash : [Hacker News](https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/)
+- Elixir HLS makes FPGA circuits from functions written in Elixir : [Hacker News](https://github.com/elixir-hls/elixir-hls)
+- Nvidia: Jensen Huang's Chinese mistress was in contact with Beijing : [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-la-maitresse-chinoise-de-jensen-huang-etait-en-contact-avec-pekin-durant-sa-liaison-selon-le-new-york-times-20261123)
+- Win4wine – Run Windows Shell as the Linux Desktop on Wine : [Hacker News](https://github.com/mikuta0407/win4wine)
+- Nospeaker: Make your MacBook's trackpad talk using its haptic motor : [Hacker News](https://github.com/os6/nospeaker)
+- What's the difference between an integer and a pointer? \(2018\) : [Hacker News](https://blog.regehr.org/archives/1621)
+- Reviving the Donkey Car with Erlang : [Hacker News](https://underjord.io/reviving-the-donkey-car-with-erlang.html)
+- How to build and maintain an agentic evaluation : [Hugging Face](https://huggingface.co/blog/agentic-evals)
+- Sierra doubles valuation to $30B within six months : [TechCrunch](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/)
+
 ## 2026-11-22
 
 - Inkling-2-Mini runs in 5.4 GB of memory : [Hacker News](https://github.com/ShinMegamiBoson/lookatmyquant)
