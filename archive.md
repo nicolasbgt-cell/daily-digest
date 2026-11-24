@@ -2,6 +2,40 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-24
+
+- Jensen Huang reinstated as Nvidia CEO : [Hacker News](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director), [TechCrunch](https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/), [TechCrunch](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/remercie-apres-ses-frasques-extraconjugales-jensen-huang-fait-son-retour-a-la-tete-de-nvidia-20261123), [Hacker News](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html), [TechCrunch](https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/), [TechCrunch](https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/), [TechCrunch](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/)
+- Nvidia employees greet Jensen Huang like a hero : [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/merci-pour-cette-seconde-chance-jensen-huang-accueilli-en-rock-star-par-les-salaries-de-nvidia-pour-son-retour-a-la-tete-de-la-firme-20261124)
+- Amazon acquires Decart's AI optimization technology for $7.5B : [TechCrunch](https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/)
+- Win4wine: Run Windows Shell as the Linux Desktop on Wine : [Hacker News](https://github.com/mikuta0407/win4wine)
+- Nospeaker: Make your MacBook's trackpad talk using its haptic motor : [Hacker News](https://github.com/os6/nospeaker)
+- What's the difference between an integer and a pointer? \(2018\) : [Hacker News](https://blog.regehr.org/archives/1621)
+- Reviving the Donkey Car with Erlang : [Hacker News](https://underjord.io/reviving-the-donkey-car-with-erlang.html)
+- How to build and maintain an agentic evaluation : [Hugging Face](https://huggingface.co/blog/agentic-evals)
+- Sierra doubles valuation to $30B within six months : [TechCrunch](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/)
+- India's opposition storms Meta's offices to get its Instagram accounts back : [Hacker News](https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html)
+- Stalwart is now a drop-in replacement for Microsoft Exchange : [Hacker News](https://stalw.art/blog/microsoft-exchange-replacement/)
+- Modernizing iperf/iperf3 and introducing fireperf : [Hacker News](https://blog.daniel-baumann.ch/posts/20261122-1.html)
+- Lowering Perplexity Without Scaling : [Hacker News](https://micjm.com/blog/lowering-perplexity-without-scaling/)
+- Making a dumb TV just smart enough : [Hacker News](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
+- Freeing the iPod Nano 5G : [Hacker News](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
+- RoboTrack: Point tracking for real-world robotic manipulation : [Hugging Face](https://huggingface.co/blog/allenai/robotrack)
+- Hugging Face and OpenRouter join forces to make open-weight models easy to run : [Hugging Face](https://huggingface.co/blog/openrouter)
+- Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes : [TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
+- Supertake raises $20M to let AI agents turn your market predictions into stock portfolios : [TechCrunch](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)
+- Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist : [TechCrunch](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/)
+- Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses : [TechCrunch](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/)
+- Jensen Huang isn't out of the woods yet : [TechCrunch](https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/)
+- 2035 Came Early : [Hacker News](https://fzakaria.com/2026/11/23/2035-came-early)
+- AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years : [Hacker News](https://www.phoronix.com/review/amd-epyc-9006-7601)
+- Arctic: A Practical Lock-Free Adaptive Radix Tree : [Hacker News](https://www.usenix.org/conference/osdi26/presentation/ni)
+- Investigation of Polymarket insider trading on the reinstatement of Jensen Huang : [Hacker News](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
+- Who in Washington owns and trades Nvidia stock : [Hacker News](https://www.kadoa.com/congress/insights/trump-nvidia)
+- LLM agents work for their parent companies, not for you : [Hacker News](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
+- Worshipping at the altar of Brendan Gregg : [Hacker News](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
+- Just a Few Bugs : [Hacker News](https://www.justafewbugs.xyz/)
+- Quad9 pulled their DNS service from France : [Hacker News](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
+
 ## 2026-11-23
 
 - Jensen Huang reinstated as head of Nvidia : [Hacker News](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director), [TechCrunch](https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/), [TechCrunch](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123), [Le Figaro](https://www.lefigaro.fr/secteur/high-tech/remercie-apres-ses-frasques-extraconjugales-jensen-huang-fait-son-retour-a-la-tete-de-nvidia-20261123)
