@@ -2,6 +2,37 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-26
+
+- 1Password security incident: hackers broke into its internal systems : [Hacker News](https://1password.com/blog/update-on-nov-2026-security-incident), [TechCrunch](https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/)
+- Holy shit holy shit holy shit holy shit: the magnitude of what is now happening : [Hacker News](https://scottaaronson.blog/?p=10379)
+- Minipg: PostgreSQL as a single executable : [Hacker News](https://progrium.github.io/minipg/)
+- Collection of preserved UI style guides : [Hacker News](https://aresluna.org/ui-style-guides/)
+- What VP ≠ VNP means \(in 3 minutes\) : [Hacker News](https://www.friedgil.com/vpvnp)
+- Slow Ubuntu security response times : [Hacker News](https://www.openwall.com/lists/oss-security/2026/11/25/9)
+- GPT-6.2 Astra is the first model to beat Googlers' code golf records : [Hacker News](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
+- Qualcomm's Oryon 3 reaches the top : [Hacker News](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
+- Building on Nemotron 3.5 Parse: open data, fine-tuning and faster inference : [Hugging Face](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin)
+- Where scientists draw the line on AI agents : [Hugging Face](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
+- Hill-climbing Inkling 2 Mini inference on a single RTX PRO 6000 : [Hugging Face](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)
+- DaisyRose-27B: pushing the frontier of post-training efficiency : [Hugging Face](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+- Why your fine-tuning job takes longer than the FLOPs suggest : [Hugging Face](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
+- 180B parameters, 32GB of RAM: pushing MoE inference to the limit with Transformers : [Hugging Face](https://huggingface.co/blog/moe-expert-streaming)
+- Rumble-2-Flash: an open 0.5B speech model for 40\+ languages : [Hugging Face](https://huggingface.co/blog/rumble-2-flash)
+- FCC approves SpaceX plan to put AI data centers in space : [TechCrunch](https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/)
+- OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work : [TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
+- Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it : [TechCrunch](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
+- Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd' : [TechCrunch](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
+- Want to buy your kid an AI toy this Christmas? Not in New York : [TechCrunch](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
+- DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers : [TechCrunch](https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/)
+- Character.AI's plan to auction off users' private chats challenged by state AGs : [TechCrunch](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
+- Moat: your OpenRouter replacement : [Hacker News](https://commandcode.ai/moat)
+- Intel One Mono font : [Hacker News](https://github.com/intel/intel-one-mono)
+- Euro-Office comes to your desktop with the Nextcloud Office Desktop app : [Hacker News](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
+- Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon : [Hugging Face](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
+- Swarms, flocks, gangs: how to build, train and evaluate multi-agent systems : [Hugging Face](https://huggingface.co/blog/training-swarms)
+- 45°C inlets just killed the chiller, most people haven't noticed yet : [Hacker News](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
+
 ## 2026-11-25
 
 - Matrix Multiplication is Θ\(n^2.25\) \[pdf\] : [Hacker News](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
