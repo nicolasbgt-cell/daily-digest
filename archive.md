@@ -2,6 +2,30 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-27
+
+- The need for a formally verifiable mainstream programming language : [Hacker News](https://blainehansen.me/post/mainstream-verifiable-language/)
+- AI makes self-hosting fun again : [Hacker News](https://janlukas.blog/posts/ai-self-hosting)
+- Hard drive pricing has gotten bad : [Hacker News](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
+- The group chat where your AI talks behind your back : [Hacker News](https://construct22.com/)
+- YouTube Ad Punisher automatically reloads YouTube pages when an ad plays : [Hacker News](https://github.com/antonpictures/youtube-punisher)
+- "What's Claude's Fursona?" and other questions : [Hacker News](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
+- CTO of RansomwareHelp indicted for wire fraud : [Hacker News](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+- Company culture = Slack emoji ÷ √headcount : [Hacker News](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
+- Novita, StreamLake and others are just ByteDance Ark wrappers : [Hacker News](https://kendell.dev/blog/arkwrapper/)
+- An introduction to uncertainty in machine learning : [Hacker News](https://chrhenning.com/blog/2026/introduction-to-uncertainty/)
+- Google will make AI agents use its MCP servers, the Gmail one can't send email : [Hacker News](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
+- LLMON: an LLM-native markup language, now in Granite 4.1 3B and 8B : [Hugging Face](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+- Is Alice Huang a spy or not? : [TechCrunch](https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/)
+- X finally gets parental controls after 20 years : [TechCrunch](https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/)
+- A month with the iPhone Duo has changed how I use my phone : [TechCrunch](https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/)
+- European Commission makes browser competition a Digital Markets Act priority : [Hacker News](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
+- Taking Trainium3 to the track: generating videos with LTX-2.5 : [Hugging Face](https://huggingface.co/blog/video-trainium3)
+- Kimi for Science: more scientific ideas, made possible : [Hacker News](https://www.kimi.ai/news/kimi-for-science-program)
+- New York and California age gating rules take effect in the new year : [Hacker News](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
+- GPT 6.2 Astra solves a historical mystery : [Hacker News](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
+- Introducing harness adapters to adapt your favorite model to your harness : [Hugging Face](https://huggingface.co/blog/harness-adapters-at-scale)
+
 ## 2026-11-26
 
 - 1Password security incident: hackers broke into its internal systems : [Hacker News](https://1password.com/blog/update-on-nov-2026-security-incident), [TechCrunch](https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/)
