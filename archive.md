@@ -2,6 +2,31 @@
 
 Each day, the bot will add here the titles of the topics it covered, with links to their original sources, the most recent at the top.
 
+## 2026-11-28
+
+- Kimi for Science: More scientific ideas, made possible : [Hacker News](https://www.kimi.ai/news/kimi-for-science-program)
+- New York and California age verification rules take effect at the new year : [Hacker News](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
+- GPT 6.2 Astra solves a historical mystery : [Hacker News](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
+- Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost : [Hugging Face](https://huggingface.co/blog/harness-adapters-at-scale)
+- Google's DeepCrossAttention achieves comparable model quality up to 3x faster : [Hacker News](https://research.google/blog/supercharging-transformer-residual-connections/)
+- Credit card skimming scripts using WebRTC found on popular shopping sites : [Hacker News](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+- Convex skills send the user's app idea to a remote server without telling them : [Hacker News](https://github.com/convex/convex-backend-skill/issues/64)
+- Citroën hydraulic system : [Hacker News](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)
+- 9/UX: a Macintosh-inspired desktop for 9front : [Hacker News](https://progrium.github.io/9ux/)
+- Tabernetes: a Kubernetes cluster whose nodes are browser tabs : [Hacker News](https://tabernet.es/)
+- Welcome Inkling 2 Mini, cutting-edge performance for your local setup : [Hugging Face](https://huggingface.co/blog/inkling2mini)
+- The US army reportedly repelled a drone over a British base : [Le Figaro](https://www.lefigaro.fr/international/l-armee-americaine-aurait-repousse-un-drone-sur-une-base-britannique-20261128)
+- Farewell : [Hacker News](https://github.com/p-e-w/heretic/issues/601)
+- GGUF LLM models with hidden malware on Hugging Face reached 2400 victims : [Hacker News](https://malspark.com/blog/malicious-gguf-models-hugging-face/)
+- Switching Jolt's sorted collections to a B\+tree : [Hacker News](https://yogthos.net/posts/2026-11-23-b+trees.html)
+- Audible removes download option for purchased audiobooks : [Hacker News](https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks)
+- Claude Code sabotage: preliminary benchmarking : [Hacker News](https://xinyadu.github.io/blog/claude-code-sabotage.html)
+- AI isn't that dangerous : [Hacker News](https://www.verysane.ai/p/ai-isnt-that-dangerous)
+- IBM MVS 3.8j Community Edition \(52-year-old operating system\) : [Hacker News](https://github.com/MVS-sysgen/sysgen)
+- The comprehensive guide to encrypted inference with TEEs : [Hacker News](https://trynito.ai/blog/encrypted-inference-tees)
+- Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run : [Hacker News](https://github.com/RiccardoSottini/AffrescoUI)
+- Sakana AI's CEO says its homegrown models are about more than Japan's national security : [TechCrunch](https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/)
+
 ## 2026-11-27
 
 - The need for a formally verifiable mainstream programming language : [Hacker News](https://blainehansen.me/post/mainstream-verifiable-language/)
